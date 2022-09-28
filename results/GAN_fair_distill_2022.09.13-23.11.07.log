@@ -1,0 +1,8 @@
+Adjusting learning rate of group 0 to 2.0000e-04.
+=============== Epoch: 0
+Adjusting learning rate of group 0 to 1.9998e-04.
+
+Train loss_D: -290840227.0576515
+Train loss_G: -24205.306525276766
+Test loss_G: 0.5252929074423653
+

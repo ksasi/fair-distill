@@ -1,0 +1,351 @@
+Adjusting learning rate of group 0 to 2.0000e-04.
+=============== Epoch: 0
+Adjusting learning rate of group 0 to 1.9998e-04.
+
+Train loss_D: 0.5945216417312622
+Train loss_G: 0.26137566566467285
+Test loss_G: 0.33996996709278654
+
+=============== Epoch: 1
+Adjusting learning rate of group 0 to 1.9990e-04.
+
+Train loss_D: 4.519280433654785
+Train loss_G: 0.7509869933128357
+Test loss_G: 0.33997781787599834
+
+=============== Epoch: 2
+Adjusting learning rate of group 0 to 1.9979e-04.
+
+Train loss_D: 0.2805350124835968
+Train loss_G: 2.937021493911743
+Test loss_G: 0.3381516933441162
+
+=============== Epoch: 3
+Adjusting learning rate of group 0 to 1.9962e-04.
+
+Train loss_D: 2.1444854736328125
+Train loss_G: 2.0985918045043945
+Test loss_G: 0.3360620141029358
+
+=============== Epoch: 4
+Adjusting learning rate of group 0 to 1.9941e-04.
+
+Train loss_D: 1.0903948545455933
+Train loss_G: 1.2314609289169312
+Test loss_G: 0.33392142398016794
+
+=============== Epoch: 5
+Adjusting learning rate of group 0 to 1.9914e-04.
+
+Train loss_D: 0.40134844183921814
+Train loss_G: 0.7071748971939087
+Test loss_G: 0.3319451000009264
+
+=============== Epoch: 6
+Adjusting learning rate of group 0 to 1.9884e-04.
+
+Train loss_D: 0.35613977909088135
+Train loss_G: 0.4697193503379822
+Test loss_G: 0.3302592762878963
+
+=============== Epoch: 7
+Adjusting learning rate of group 0 to 1.9848e-04.
+
+Train loss_D: 0.5269976258277893
+Train loss_G: 0.38625630736351013
+Test loss_G: 0.32862110648836407
+
+=============== Epoch: 8
+Adjusting learning rate of group 0 to 1.9808e-04.
+
+Train loss_D: 0.6589426398277283
+Train loss_G: 0.37228870391845703
+Test loss_G: 0.3272081230367933
+
+=============== Epoch: 9
+Adjusting learning rate of group 0 to 1.9763e-04.
+
+Train loss_D: 0.6810930371284485
+Train loss_G: 0.4003947973251343
+Test loss_G: 0.32577239189829144
+
+=============== Epoch: 10
+Adjusting learning rate of group 0 to 1.9713e-04.
+
+Train loss_D: 0.6295790672302246
+Train loss_G: 0.46557724475860596
+Test loss_G: 0.3244470145021166
+
+=============== Epoch: 11
+Adjusting learning rate of group 0 to 1.9659e-04.
+
+Train loss_D: 0.5678112506866455
+Train loss_G: 0.5666087865829468
+Test loss_G: 0.32305156758853365
+
+=============== Epoch: 12
+Adjusting learning rate of group 0 to 1.9600e-04.
+
+Train loss_D: 0.5490955710411072
+Train loss_G: 0.6846947073936462
+Test loss_G: 0.32158268775258747
+
+=============== Epoch: 13
+Adjusting learning rate of group 0 to 1.9537e-04.
+
+Train loss_D: 0.5954358577728271
+Train loss_G: 0.7585611939430237
+Test loss_G: 0.3201688996383122
+
+=============== Epoch: 14
+Adjusting learning rate of group 0 to 1.9469e-04.
+
+Train loss_D: 0.6580321788787842
+Train loss_G: 0.7601454854011536
+Test loss_G: 0.31869434458868845
+
+=============== Epoch: 15
+Adjusting learning rate of group 0 to 1.9397e-04.
+
+Train loss_D: 0.6846767067909241
+Train loss_G: 0.7040207982063293
+Test loss_G: 0.31730578201157705
+
+=============== Epoch: 16
+Adjusting learning rate of group 0 to 1.9320e-04.
+
+Train loss_D: 0.6803538799285889
+Train loss_G: 0.6171139478683472
+Test loss_G: 0.31590273124831064
+
+=============== Epoch: 17
+Adjusting learning rate of group 0 to 1.9239e-04.
+
+Train loss_D: 0.6729158759117126
+Train loss_G: 0.5272647142410278
+Test loss_G: 0.31469669938087463
+
+=============== Epoch: 18
+Adjusting learning rate of group 0 to 1.9153e-04.
+
+Train loss_D: 0.6838743686676025
+Train loss_G: 0.4545685648918152
+Test loss_G: 0.31347267968314035
+
+=============== Epoch: 19
+Adjusting learning rate of group 0 to 1.9063e-04.
+
+Train loss_D: 0.7145915031433105
+Train loss_G: 0.41207218170166016
+Test loss_G: 0.31238567403384615
+
+=============== Epoch: 20
+Adjusting learning rate of group 0 to 1.8969e-04.
+
+Train loss_D: 0.7471733093261719
+Train loss_G: 0.3997141122817993
+Test loss_G: 0.3111857942172459
+
+=============== Epoch: 21
+Adjusting learning rate of group 0 to 1.8870e-04.
+
+Train loss_D: 0.7607832551002502
+Train loss_G: 0.4108533263206482
+Test loss_G: 0.3101804724761418
+
+=============== Epoch: 22
+Adjusting learning rate of group 0 to 1.8767e-04.
+
+Train loss_D: 0.757064163684845
+Train loss_G: 0.4359184205532074
+Test loss_G: 0.309275495154517
+
+=============== Epoch: 23
+Adjusting learning rate of group 0 to 1.8660e-04.
+
+Train loss_D: 0.7472119331359863
+Train loss_G: 0.4651831388473511
+Test loss_G: 0.30836244566099985
+
+=============== Epoch: 24
+Adjusting learning rate of group 0 to 1.8549e-04.
+
+Train loss_D: 0.7394223213195801
+Train loss_G: 0.48978644609451294
+Test loss_G: 0.3076316714286804
+
+=============== Epoch: 25
+Adjusting learning rate of group 0 to 1.8434e-04.
+
+Train loss_D: 0.7344491481781006
+Train loss_G: 0.5045728087425232
+Test loss_G: 0.30695954816682
+
+=============== Epoch: 26
+Adjusting learning rate of group 0 to 1.8315e-04.
+
+Train loss_D: 0.7284648418426514
+Train loss_G: 0.5084373354911804
+Test loss_G: 0.3062801446233477
+
+=============== Epoch: 27
+Adjusting learning rate of group 0 to 1.8192e-04.
+
+Train loss_D: 0.7185810804367065
+Train loss_G: 0.5021344423294067
+Test loss_G: 0.3056727818080357
+
+=============== Epoch: 28
+Adjusting learning rate of group 0 to 1.8064e-04.
+
+Train loss_D: 0.7047011256217957
+Train loss_G: 0.48671483993530273
+Test loss_G: 0.3050881326198578
+
+=============== Epoch: 29
+Adjusting learning rate of group 0 to 1.7934e-04.
+
+Train loss_D: 0.6890875101089478
+Train loss_G: 0.46480220556259155
+Test loss_G: 0.3046891561576298
+
+=============== Epoch: 30
+Adjusting learning rate of group 0 to 1.7799e-04.
+
+Train loss_D: 0.6748562455177307
+Train loss_G: 0.44332972168922424
+Test loss_G: 0.3042964850153242
+
+=============== Epoch: 31
+Adjusting learning rate of group 0 to 1.7660e-04.
+
+Train loss_D: 0.6634961366653442
+Train loss_G: 0.4322727918624878
+Test loss_G: 0.30399076427732197
+
+=============== Epoch: 32
+Adjusting learning rate of group 0 to 1.7518e-04.
+
+Train loss_D: 0.6516962051391602
+Train loss_G: 0.43504542112350464
+Test loss_G: 0.30368492007255554
+
+=============== Epoch: 33
+Adjusting learning rate of group 0 to 1.7373e-04.
+
+Train loss_D: 0.6364275217056274
+Train loss_G: 0.4499053359031677
+Test loss_G: 0.30348282626696993
+
+=============== Epoch: 34
+Adjusting learning rate of group 0 to 1.7224e-04.
+
+Train loss_D: 0.6186805367469788
+Train loss_G: 0.47213253378868103
+Test loss_G: 0.30335945316723417
+
+=============== Epoch: 35
+Adjusting learning rate of group 0 to 1.7071e-04.
+
+Train loss_D: 0.6017321348190308
+Train loss_G: 0.49610310792922974
+Test loss_G: 0.30320844054222107
+
+=============== Epoch: 36
+Adjusting learning rate of group 0 to 1.6915e-04.
+
+Train loss_D: 0.5871310830116272
+Train loss_G: 0.5167791843414307
+Test loss_G: 0.30314707330295015
+
+=============== Epoch: 37
+Adjusting learning rate of group 0 to 1.6756e-04.
+
+Train loss_D: 0.5736957788467407
+Train loss_G: 0.5287868976593018
+Test loss_G: 0.3031588877950396
+
+=============== Epoch: 38
+Adjusting learning rate of group 0 to 1.6593e-04.
+
+Train loss_D: 0.5601754188537598
+Train loss_G: 0.5268863439559937
+Test loss_G: 0.3032147628920419
+
+=============== Epoch: 39
+Adjusting learning rate of group 0 to 1.6428e-04.
+
+Train loss_D: 0.5474793910980225
+Train loss_G: 0.5117431282997131
+Test loss_G: 0.30342973130089895
+
+=============== Epoch: 40
+Adjusting learning rate of group 0 to 1.6259e-04.
+
+Train loss_D: 0.5393974781036377
+Train loss_G: 0.4953448176383972
+Test loss_G: 0.30371372188840595
+
+=============== Epoch: 41
+Adjusting learning rate of group 0 to 1.6088e-04.
+
+Train loss_D: 0.5390914678573608
+Train loss_G: 0.4948353171348572
+Test loss_G: 0.3040974863937923
+
+=============== Epoch: 42
+Adjusting learning rate of group 0 to 1.5913e-04.
+
+Train loss_D: 0.5449652671813965
+Train loss_G: 0.5141890048980713
+Test loss_G: 0.30463404740606037
+
+=============== Epoch: 43
+Adjusting learning rate of group 0 to 1.5736e-04.
+
+Train loss_D: 0.5577028393745422
+Train loss_G: 0.5365065336227417
+Test loss_G: 0.30533644556999207
+
+=============== Epoch: 44
+Adjusting learning rate of group 0 to 1.5556e-04.
+
+Train loss_D: 0.5842461585998535
+Train loss_G: 0.5363564491271973
+Test loss_G: 0.3062568392072405
+
+=============== Epoch: 45
+Adjusting learning rate of group 0 to 1.5373e-04.
+
+Train loss_D: 0.6266133189201355
+Train loss_G: 0.5046597123146057
+Test loss_G: 0.30743877802576336
+
+=============== Epoch: 46
+Adjusting learning rate of group 0 to 1.5188e-04.
+
+Train loss_D: 0.6816071271896362
+Train loss_G: 0.46216881275177
+Test loss_G: 0.3087748501982008
+
+=============== Epoch: 47
+Adjusting learning rate of group 0 to 1.5000e-04.
+
+Train loss_D: 0.743472695350647
+Train loss_G: 0.4376092553138733
+Test loss_G: 0.31023458923612324
+
+=============== Epoch: 48
+Adjusting learning rate of group 0 to 1.4810e-04.
+
+Train loss_D: 0.7974956035614014
+Train loss_G: 0.43574440479278564
+Test loss_G: 0.31169613770076204
+
+=============== Epoch: 49
+Adjusting learning rate of group 0 to 1.4617e-04.
+
+Train loss_D: 0.8304294347763062
+Train loss_G: 0.43710631132125854
+Test loss_G: 0.3129904397896358
+

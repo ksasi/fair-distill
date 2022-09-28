@@ -1,0 +1,6002 @@
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+=============== Epoch: 0
+
+Train loss_D: 268.124251863017
+Train loss_G: 0.0
+Test loss_G: 0.564062910420554
+
+=============== Epoch: 1
+
+Train loss_D: 651.1961193802526
+Train loss_G: 0.0
+Test loss_G: 0.5711353889533451
+
+=============== Epoch: 2
+
+Train loss_D: 4.2665851805359125
+Train loss_G: 0.0
+Test loss_G: 0.571697073323386
+
+=============== Epoch: 3
+
+Train loss_D: 0.47267795894731535
+Train loss_G: 0.0
+Test loss_G: 0.5717079256262098
+
+=============== Epoch: 4
+
+Train loss_D: 0.028992142504193907
+Train loss_G: 0.0
+Test loss_G: 0.5717081214700427
+
+=============== Epoch: 5
+
+Train loss_D: 0.0027526416174947776
+Train loss_G: 0.0
+Test loss_G: 0.5717081299849919
+
+=============== Epoch: 6
+
+Train loss_D: 4.834113401031015e-05
+Train loss_G: 0.0
+Test loss_G: 0.5717081214700427
+
+=============== Epoch: 7
+
+Train loss_D: 0.0
+Train loss_G: 0.0
+Test loss_G: 0.5717081214700427
+
+=============== Epoch: 8
+
+Train loss_D: 0.0
+Train loss_G: 0.0
+Test loss_G: 0.5717081214700427
+
+=============== Epoch: 9
+
+Train loss_D: 2296.840840121527
+Train loss_G: 0.4969179975359063
+Test loss_G: 0.458950474858284
+
+=============== Epoch: 10
+
+Train loss_D: 72.15336768259294
+Train loss_G: 0.0
+Test loss_G: 0.4584497106926782
+
+=============== Epoch: 11
+
+Train loss_D: 4.069591799707268
+Train loss_G: 0.0
+Test loss_G: 0.4584433542830603
+
+=============== Epoch: 12
+
+Train loss_D: 105.93884220498785
+Train loss_G: 0.0
+Test loss_G: 0.45844324571745737
+
+=============== Epoch: 13
+
+Train loss_D: 2.4818111638851406
+Train loss_G: 0.0
+Test loss_G: 0.45844324997493197
+
+=============== Epoch: 14
+
+Train loss_D: 0.02325325540778067
+Train loss_G: 0.0
+Test loss_G: 0.4584432414599827
+
+=============== Epoch: 15
+
+Train loss_D: 0.0043483593620377015
+Train loss_G: 0.0
+Test loss_G: 0.4584432414599827
+
+=============== Epoch: 16
+
+Train loss_D: 2.0347936990017246e-05
+Train loss_G: 0.0
+Test loss_G: 0.4584432414599827
+
+=============== Epoch: 17
+
+Train loss_D: 3067.467565031373
+Train loss_G: 0.0
+Test loss_G: 0.4584432414599827
+
+=============== Epoch: 18
+
+Train loss_D: 3.8134117946683546
+Train loss_G: 0.0
+Test loss_G: 0.4584432414599827
+
+=============== Epoch: 19
+
+Train loss_D: 265.62766500478256
+Train loss_G: 0.4149628061997263
+Test loss_G: 0.4352344955716814
+
+=============== Epoch: 20
+
+Train loss_D: 257.1703080460429
+Train loss_G: 0.0
+Test loss_G: 0.4357881567307881
+
+=============== Epoch: 21
+
+Train loss_D: 154.73433519527316
+Train loss_G: 0.0
+Test loss_G: 0.43581157071249826
+
+=============== Epoch: 22
+
+Train loss_D: 113.97748006414622
+Train loss_G: 0.0
+Test loss_G: 0.43581199858869824
+
+=============== Epoch: 23
+
+Train loss_D: 87.33089319756255
+Train loss_G: 0.0
+Test loss_G: 0.43581200923238483
+
+=============== Epoch: 24
+
+Train loss_D: 46.44491308322176
+Train loss_G: 0.0
+Test loss_G: 0.43581201348985943
+
+=============== Epoch: 25
+
+Train loss_D: 115.27081619622186
+Train loss_G: 0.0
+Test loss_G: 0.43581201348985943
+
+=============== Epoch: 26
+
+Train loss_D: 11.260987898451276
+Train loss_G: 0.0
+Test loss_G: 0.43581201348985943
+
+=============== Epoch: 27
+
+Train loss_D: 78.58614397497149
+Train loss_G: 0.0
+Test loss_G: 0.43581201348985943
+
+=============== Epoch: 28
+
+Train loss_D: 168.19494024990126
+Train loss_G: 0.0
+Test loss_G: 0.43581201348985943
+
+=============== Epoch: 29
+
+Train loss_D: 107.28283650404774
+Train loss_G: 0.3437507583906776
+Test loss_G: 0.4380406588315964
+
+=============== Epoch: 30
+
+Train loss_D: 133.10802511684597
+Train loss_G: 0.0
+Test loss_G: 0.4390727089984076
+
+=============== Epoch: 31
+
+Train loss_D: 137.88742125150748
+Train loss_G: 0.0
+Test loss_G: 0.43912349002701895
+
+=============== Epoch: 32
+
+Train loss_D: 70.46322176605463
+Train loss_G: 0.0
+Test loss_G: 0.4391244330576488
+
+=============== Epoch: 33
+
+Train loss_D: 95.92209346871823
+Train loss_G: 0.0
+Test loss_G: 0.4391244373151234
+
+=============== Epoch: 34
+
+Train loss_D: 46.74878380820155
+Train loss_G: 0.0
+Test loss_G: 0.43912444370133535
+
+=============== Epoch: 35
+
+Train loss_D: 43.424960458185524
+Train loss_G: 0.0
+Test loss_G: 0.43912444370133535
+
+=============== Epoch: 36
+
+Train loss_D: 57.5908908653073
+Train loss_G: 0.0
+Test loss_G: 0.43912444370133535
+
+=============== Epoch: 37
+
+Train loss_D: 72.15777183207683
+Train loss_G: 0.0
+Test loss_G: 0.43912444370133535
+
+=============== Epoch: 38
+
+Train loss_D: 46.83976216777228
+Train loss_G: 0.0
+Test loss_G: 0.43912444370133535
+
+=============== Epoch: 39
+
+Train loss_D: 131.83024890220258
+Train loss_G: 0.2670836770220807
+Test loss_G: 0.4479536988905498
+
+=============== Epoch: 40
+
+Train loss_D: 157.86186099471524
+Train loss_G: 0.0
+Test loss_G: 0.44678276564393726
+
+=============== Epoch: 41
+
+Train loss_D: 64.93746975623071
+Train loss_G: 0.0
+Test loss_G: 0.44687635557992117
+
+=============== Epoch: 42
+
+Train loss_D: 129.77286654151976
+Train loss_G: 0.0
+Test loss_G: 0.44687810114451815
+
+=============== Epoch: 43
+
+Train loss_D: 50.499996200203896
+Train loss_G: 0.0
+Test loss_G: 0.4468781373330525
+
+=============== Epoch: 44
+
+Train loss_D: 88.46517211571336
+Train loss_G: 0.0
+Test loss_G: 0.4468781373330525
+
+=============== Epoch: 45
+
+Train loss_D: 60.74457891727798
+Train loss_G: 0.0
+Test loss_G: 0.4468781373330525
+
+=============== Epoch: 46
+
+Train loss_D: 71.41758165648207
+Train loss_G: 0.0
+Test loss_G: 0.4468781373330525
+
+=============== Epoch: 47
+
+Train loss_D: 49.37742614222225
+Train loss_G: 0.0
+Test loss_G: 0.4468781373330525
+
+=============== Epoch: 48
+
+Train loss_D: 77.219998634886
+Train loss_G: 0.0
+Test loss_G: 0.4468781373330525
+
+=============== Epoch: 49
+
+Train loss_D: 100.7478311508894
+Train loss_G: 0.20505333966330477
+Test loss_G: 0.4469928379569735
+
+=============== Epoch: 50
+
+Train loss_D: 141.08036875166
+Train loss_G: 0.0
+Test loss_G: 0.4470371646540506
+
+=============== Epoch: 51
+
+Train loss_D: 154.24833416193724
+Train loss_G: 0.0
+Test loss_G: 0.44707503063338144
+
+=============== Epoch: 52
+
+Train loss_D: 135.41967181302607
+Train loss_G: 0.0
+Test loss_G: 0.4470757118293217
+
+=============== Epoch: 53
+
+Train loss_D: 108.61757110245526
+Train loss_G: 0.0
+Test loss_G: 0.44707574801785605
+
+=============== Epoch: 54
+
+Train loss_D: 74.22075574286282
+Train loss_G: 0.0
+Test loss_G: 0.44707574376038145
+
+=============== Epoch: 55
+
+Train loss_D: 148.2359111458063
+Train loss_G: 0.0
+Test loss_G: 0.4470757416316441
+
+=============== Epoch: 56
+
+Train loss_D: 59.10711004585028
+Train loss_G: 0.0
+Test loss_G: 0.4470757416316441
+
+=============== Epoch: 57
+
+Train loss_D: 75.27457824535668
+Train loss_G: 0.0
+Test loss_G: 0.4470757416316441
+
+=============== Epoch: 58
+
+Train loss_D: 70.30124423652887
+Train loss_G: 0.0
+Test loss_G: 0.4470757416316441
+
+=============== Epoch: 59
+
+Train loss_D: 64.34572868421674
+Train loss_G: 0.1798179926056611
+Test loss_G: 0.44005925740514484
+
+=============== Epoch: 60
+
+Train loss_D: 101.1775943748653
+Train loss_G: 0.0
+Test loss_G: 0.44088280839579447
+
+=============== Epoch: 61
+
+Train loss_D: 68.86369029991329
+Train loss_G: 0.0
+Test loss_G: 0.4409298024007252
+
+=============== Epoch: 62
+
+Train loss_D: 77.10344550106674
+Train loss_G: 0.0
+Test loss_G: 0.4409306730542864
+
+=============== Epoch: 63
+
+Train loss_D: 71.60326107684523
+Train loss_G: 0.0
+Test loss_G: 0.44093069434165955
+
+=============== Epoch: 64
+
+Train loss_D: 78.0813309547957
+Train loss_G: 0.0
+Test loss_G: 0.44093069434165955
+
+=============== Epoch: 65
+
+Train loss_D: 32.01209707092494
+Train loss_G: 0.0
+Test loss_G: 0.44093069221292225
+
+=============== Epoch: 66
+
+Train loss_D: 46.86523605324328
+Train loss_G: 0.0
+Test loss_G: 0.44093069221292225
+
+=============== Epoch: 67
+
+Train loss_D: 32.486563521204516
+Train loss_G: 0.0
+Test loss_G: 0.44093069221292225
+
+=============== Epoch: 68
+
+Train loss_D: 14.785242173238657
+Train loss_G: 0.0
+Test loss_G: 0.44093069221292225
+
+=============== Epoch: 69
+
+Train loss_D: 23.800215106341057
+Train loss_G: 0.17796107460009425
+Test loss_G: 0.43504523166588377
+
+=============== Epoch: 70
+
+Train loss_D: 22.199215871281922
+Train loss_G: 0.0
+Test loss_G: 0.43618003172533854
+
+=============== Epoch: 71
+
+Train loss_D: 35.159166965517215
+Train loss_G: 0.0
+Test loss_G: 0.43623790570667814
+
+=============== Epoch: 72
+
+Train loss_D: 54.086794867005665
+Train loss_G: 0.0
+Test loss_G: 0.43623897220407215
+
+=============== Epoch: 73
+
+Train loss_D: 14.151190026313998
+Train loss_G: 0.0
+Test loss_G: 0.43623900200639454
+
+=============== Epoch: 74
+
+Train loss_D: 28.938146854226943
+Train loss_G: 0.0
+Test loss_G: 0.4362389998776572
+
+=============== Epoch: 75
+
+Train loss_D: 23.15678239997942
+Train loss_G: 0.0
+Test loss_G: 0.4362389998776572
+
+=============== Epoch: 76
+
+Train loss_D: 24.8972957956139
+Train loss_G: 0.0
+Test loss_G: 0.4362389998776572
+
+=============== Epoch: 77
+
+Train loss_D: 24.371276102378033
+Train loss_G: 0.0
+Test loss_G: 0.4362389998776572
+
+=============== Epoch: 78
+
+Train loss_D: 9.55223182681948
+Train loss_G: 0.0
+Test loss_G: 0.4362389998776572
+
+=============== Epoch: 79
+
+Train loss_D: 39.405243749322835
+Train loss_G: 0.1600989707206425
+Test loss_G: 0.4328943703855787
+
+=============== Epoch: 80
+
+Train loss_D: 6.9009024375118315
+Train loss_G: 0.0
+Test loss_G: 0.4341705186026437
+
+=============== Epoch: 81
+
+Train loss_D: 45.91305179439951
+Train loss_G: 0.0
+Test loss_G: 0.4342265746423176
+
+=============== Epoch: 82
+
+Train loss_D: 4.243262627918739
+Train loss_G: 0.0
+Test loss_G: 0.4342275857925415
+
+=============== Epoch: 83
+
+Train loss_D: 16.282279909792123
+Train loss_G: 0.0
+Test loss_G: 0.43422762198107584
+
+=============== Epoch: 84
+
+Train loss_D: 56.15987505708472
+Train loss_G: 0.0
+Test loss_G: 0.43422762198107584
+
+=============== Epoch: 85
+
+Train loss_D: 2.8742306814529
+Train loss_G: 0.0
+Test loss_G: 0.43422762198107584
+
+=============== Epoch: 86
+
+Train loss_D: 12.283019378781319
+Train loss_G: 0.0
+Test loss_G: 0.43422762198107584
+
+=============== Epoch: 87
+
+Train loss_D: 21.143910434038844
+Train loss_G: 0.0
+Test loss_G: 0.43422762198107584
+
+=============== Epoch: 88
+
+Train loss_D: 2.638786910509225
+Train loss_G: 0.0
+Test loss_G: 0.43422762198107584
+
+=============== Epoch: 89
+
+Train loss_D: 10.317101318811183
+Train loss_G: 0.1566021309087151
+Test loss_G: 0.4304426461458206
+
+=============== Epoch: 90
+
+Train loss_D: 12.539384685689583
+Train loss_G: 0.0
+Test loss_G: 0.4313406092779977
+
+=============== Epoch: 91
+
+Train loss_D: 27.72395968454657
+Train loss_G: 0.0
+Test loss_G: 0.43137932249477934
+
+=============== Epoch: 92
+
+Train loss_D: 2.0897833361523226
+Train loss_G: 0.0
+Test loss_G: 0.431380033493042
+
+=============== Epoch: 93
+
+Train loss_D: 21.75767050027207
+Train loss_G: 0.0
+Test loss_G: 0.4313800483942032
+
+=============== Epoch: 94
+
+Train loss_D: 1.59546966542257
+Train loss_G: 0.0
+Test loss_G: 0.43138005265167784
+
+=============== Epoch: 95
+
+Train loss_D: 34.09086898589885
+Train loss_G: 0.0
+Test loss_G: 0.43138005265167784
+
+=============== Epoch: 96
+
+Train loss_D: 1.1863044689816888
+Train loss_G: 0.0
+Test loss_G: 0.43138005265167784
+
+=============== Epoch: 97
+
+Train loss_D: 0.6341200472816126
+Train loss_G: 0.0
+Test loss_G: 0.43138005265167784
+
+=============== Epoch: 98
+
+Train loss_D: 174.45570287719966
+Train loss_G: 0.0
+Test loss_G: 0.43138005265167784
+
+=============== Epoch: 99
+
+Train loss_D: 0.7946752247880795
+Train loss_G: 0.15043684761775167
+Test loss_G: 0.4286686267171587
+
+=============== Epoch: 100
+
+Train loss_D: 23.649884280355764
+Train loss_G: 0.0
+Test loss_G: 0.42949547725064413
+
+=============== Epoch: 101
+
+Train loss_D: 1.3939043988357298
+Train loss_G: 0.0
+Test loss_G: 0.4295249155589512
+
+=============== Epoch: 102
+
+Train loss_D: 90.7835501264417
+Train loss_G: 0.0
+Test loss_G: 0.42952545625822885
+
+=============== Epoch: 103
+
+Train loss_D: 1.630248320987448
+Train loss_G: 0.0
+Test loss_G: 0.42952546051570345
+
+=============== Epoch: 104
+
+Train loss_D: 1.458942959914566
+Train loss_G: 0.0
+Test loss_G: 0.4295254626444408
+
+=============== Epoch: 105
+
+Train loss_D: 46.57163192662847
+Train loss_G: 0.0
+Test loss_G: 0.4295254626444408
+
+=============== Epoch: 106
+
+Train loss_D: 1.62286202442192
+Train loss_G: 0.0
+Test loss_G: 0.4295254626444408
+
+=============== Epoch: 107
+
+Train loss_D: 35.278466042436776
+Train loss_G: 0.0
+Test loss_G: 0.4295254626444408
+
+=============== Epoch: 108
+
+Train loss_D: 1.900741465826286
+Train loss_G: 0.0
+Test loss_G: 0.4295254626444408
+
+=============== Epoch: 109
+
+Train loss_D: 10.79273970448412
+Train loss_G: 0.14371061129005333
+Test loss_G: 0.4272885279996054
+
+=============== Epoch: 110
+
+Train loss_D: 1.4892750090220943
+Train loss_G: 0.0
+Test loss_G: 0.4282049025808062
+
+=============== Epoch: 111
+
+Train loss_D: 8.791959560978285
+Train loss_G: 0.0
+Test loss_G: 0.4282392625297819
+
+=============== Epoch: 112
+
+Train loss_D: 5.0075678091161535
+Train loss_G: 0.0
+Test loss_G: 0.4282398968935013
+
+=============== Epoch: 113
+
+Train loss_D: 19.854238212778
+Train loss_G: 0.0
+Test loss_G: 0.4282399096659252
+
+=============== Epoch: 114
+
+Train loss_D: 1.3495426785666496
+Train loss_G: 0.0
+Test loss_G: 0.4282399139233998
+
+=============== Epoch: 115
+
+Train loss_D: 62.74077837764344
+Train loss_G: 0.0
+Test loss_G: 0.4282399139233998
+
+=============== Epoch: 116
+
+Train loss_D: 1.8633973140676972
+Train loss_G: 0.0
+Test loss_G: 0.4282399139233998
+
+=============== Epoch: 117
+
+Train loss_D: 0.8788969544402789
+Train loss_G: 0.0
+Test loss_G: 0.4282399139233998
+
+=============== Epoch: 118
+
+Train loss_D: 16.23072538089764
+Train loss_G: 0.0
+Test loss_G: 0.4282399139233998
+
+=============== Epoch: 119
+
+Train loss_D: 1.2497762378188781
+Train loss_G: 0.14076389019426547
+Test loss_G: 0.4267388241631644
+
+=============== Epoch: 120
+
+Train loss_D: 181.3595178832329
+Train loss_G: 0.0
+Test loss_G: 0.4270954728126526
+
+=============== Epoch: 121
+
+Train loss_D: 2.1974108923895983
+Train loss_G: 0.0
+Test loss_G: 0.4271073596818106
+
+=============== Epoch: 122
+
+Train loss_D: 0.7745200477147591
+Train loss_G: 0.0
+Test loss_G: 0.4271075704268047
+
+=============== Epoch: 123
+
+Train loss_D: 10.774959199057776
+Train loss_G: 0.0
+Test loss_G: 0.42710757894175394
+
+=============== Epoch: 124
+
+Train loss_D: 0.7729680816410109
+Train loss_G: 0.0
+Test loss_G: 0.42710757681301664
+
+=============== Epoch: 125
+
+Train loss_D: 1.9732598286100256
+Train loss_G: 0.0
+Test loss_G: 0.42710757681301664
+
+=============== Epoch: 126
+
+Train loss_D: 203.84920784044152
+Train loss_G: 0.0
+Test loss_G: 0.42710757681301664
+
+=============== Epoch: 127
+
+Train loss_D: 1.6976212157314876
+Train loss_G: 0.0
+Test loss_G: 0.42710757681301664
+
+=============== Epoch: 128
+
+Train loss_D: 0.4800341993686743
+Train loss_G: 0.0
+Test loss_G: 0.42710757681301664
+
+=============== Epoch: 129
+
+Train loss_D: 34.246347848275036
+Train loss_G: 0.1355728483513782
+Test loss_G: 0.4248995291335242
+
+=============== Epoch: 130
+
+Train loss_D: 1.8591499660979025
+Train loss_G: 0.0
+Test loss_G: 0.426168578011649
+
+=============== Epoch: 131
+
+Train loss_D: 0.8868701351166237
+Train loss_G: 0.0
+Test loss_G: 0.4262108930519649
+
+=============== Epoch: 132
+
+Train loss_D: 55.886731494087144
+Train loss_G: 0.0
+Test loss_G: 0.42621166152613504
+
+=============== Epoch: 133
+
+Train loss_D: 1.1227463957475265
+Train loss_G: 0.0
+Test loss_G: 0.4262116870709828
+
+=============== Epoch: 134
+
+Train loss_D: 8.277548660851608
+Train loss_G: 0.0
+Test loss_G: 0.42621168919972013
+
+=============== Epoch: 135
+
+Train loss_D: 22.395122909852944
+Train loss_G: 0.0
+Test loss_G: 0.42621168919972013
+
+=============== Epoch: 136
+
+Train loss_D: 9.81430553199607
+Train loss_G: 0.0
+Test loss_G: 0.42621168919972013
+
+=============== Epoch: 137
+
+Train loss_D: 1.5297575783843058
+Train loss_G: 0.0
+Test loss_G: 0.42621168919972013
+
+=============== Epoch: 138
+
+Train loss_D: 24.985209696169477
+Train loss_G: 0.0
+Test loss_G: 0.42621168919972013
+
+=============== Epoch: 139
+
+Train loss_D: 0.7142965660896152
+Train loss_G: 0.1324481568054149
+Test loss_G: 0.4251638927630016
+
+=============== Epoch: 140
+
+Train loss_D: 14.028693743664917
+Train loss_G: 0.0
+Test loss_G: 0.4255875561918531
+
+=============== Epoch: 141
+
+Train loss_D: 0.7102741973067168
+Train loss_G: 0.0
+Test loss_G: 0.42560174209730967
+
+=============== Epoch: 142
+
+Train loss_D: 83.5979899246231
+Train loss_G: 0.0
+Test loss_G: 0.42560199967452456
+
+=============== Epoch: 143
+
+Train loss_D: 1.7469086021301337
+Train loss_G: 0.0
+Test loss_G: 0.4256020039319992
+
+=============== Epoch: 144
+
+Train loss_D: 0.43879163126985077
+Train loss_G: 0.0
+Test loss_G: 0.4256020060607365
+
+=============== Epoch: 145
+
+Train loss_D: 101.86484849894805
+Train loss_G: 0.0
+Test loss_G: 0.4256020060607365
+
+=============== Epoch: 146
+
+Train loss_D: 1.7349941544234753
+Train loss_G: 0.0
+Test loss_G: 0.4256020060607365
+
+=============== Epoch: 147
+
+Train loss_D: 0.43484885932412
+Train loss_G: 0.0
+Test loss_G: 0.4256020060607365
+
+=============== Epoch: 148
+
+Train loss_D: 103.61198677009634
+Train loss_G: 0.0
+Test loss_G: 0.4256020060607365
+
+=============== Epoch: 149
+
+Train loss_D: 1.6952220484963618
+Train loss_G: 0.1293511780861177
+Test loss_G: 0.42339361778327395
+
+=============== Epoch: 150
+
+Train loss_D: 2.367227602910134
+Train loss_G: 0.0
+Test loss_G: 0.42447047361305784
+
+=============== Epoch: 151
+
+Train loss_D: 14.758502953336574
+Train loss_G: 0.0
+Test loss_G: 0.4245085482086454
+
+=============== Epoch: 152
+
+Train loss_D: 1.036223276751116
+Train loss_G: 0.0
+Test loss_G: 0.42450926559312
+
+=============== Epoch: 153
+
+Train loss_D: 27.50651772537094
+Train loss_G: 0.0
+Test loss_G: 0.42450927410806927
+
+=============== Epoch: 154
+
+Train loss_D: 7.771530756606808
+Train loss_G: 0.0
+Test loss_G: 0.4245092783655439
+
+=============== Epoch: 155
+
+Train loss_D: 0.6600049289409071
+Train loss_G: 0.0
+Test loss_G: 0.4245092783655439
+
+=============== Epoch: 156
+
+Train loss_D: 6.822096428350051
+Train loss_G: 0.0
+Test loss_G: 0.4245092783655439
+
+=============== Epoch: 157
+
+Train loss_D: 0.3780095964029897
+Train loss_G: 0.0
+Test loss_G: 0.4245092783655439
+
+=============== Epoch: 158
+
+Train loss_D: 50.76955122395884
+Train loss_G: 0.0
+Test loss_G: 0.4245092783655439
+
+=============== Epoch: 159
+
+Train loss_D: 1.8329228088041418
+Train loss_G: 0.1264217158681468
+Test loss_G: 0.4240882268973759
+
+=============== Epoch: 160
+
+Train loss_D: 0.585069270193344
+Train loss_G: 0.0
+Test loss_G: 0.4241356317486082
+
+=============== Epoch: 161
+
+Train loss_D: 49.942074630973366
+Train loss_G: 0.0
+Test loss_G: 0.42413826286792755
+
+=============== Epoch: 162
+
+Train loss_D: 1.8175834310168284
+Train loss_G: 0.0
+Test loss_G: 0.4241383011851992
+
+=============== Epoch: 163
+
+Train loss_D: 0.3745416762831155
+Train loss_G: 0.0
+Test loss_G: 0.4241383033139365
+
+=============== Epoch: 164
+
+Train loss_D: 29.86664046824808
+Train loss_G: 0.0
+Test loss_G: 0.42413830970014843
+
+=============== Epoch: 165
+
+Train loss_D: 0.5370692055294057
+Train loss_G: 0.0
+Test loss_G: 0.42413830970014843
+
+=============== Epoch: 166
+
+Train loss_D: 0.21768830205110135
+Train loss_G: 0.0
+Test loss_G: 0.42413830970014843
+
+=============== Epoch: 167
+
+Train loss_D: 9.539465376091357
+Train loss_G: 0.0
+Test loss_G: 0.42413830970014843
+
+=============== Epoch: 168
+
+Train loss_D: 0.21329955465625972
+Train loss_G: 0.0
+Test loss_G: 0.42413830970014843
+
+=============== Epoch: 169
+
+Train loss_D: 10.240676427853032
+Train loss_G: 0.12399658619573242
+Test loss_G: 0.4225036310298102
+
+=============== Epoch: 170
+
+Train loss_D: 10.834657998959301
+Train loss_G: 0.0
+Test loss_G: 0.42345706692763735
+
+=============== Epoch: 171
+
+Train loss_D: 10.284678287192946
+Train loss_G: 0.0
+Test loss_G: 0.4235030859708786
+
+=============== Epoch: 172
+
+Train loss_D: 1.288120444995002
+Train loss_G: 0.0
+Test loss_G: 0.4235039289508547
+
+=============== Epoch: 173
+
+Train loss_D: 2.93753518556332
+Train loss_G: 0.0
+Test loss_G: 0.42350395023822784
+
+=============== Epoch: 174
+
+Train loss_D: 7.676777379820123
+Train loss_G: 0.0
+Test loss_G: 0.42350394810949055
+
+=============== Epoch: 175
+
+Train loss_D: 0.4130603788580629
+Train loss_G: 0.0
+Test loss_G: 0.42350394810949055
+
+=============== Epoch: 176
+
+Train loss_D: 122.92085050893547
+Train loss_G: 0.0
+Test loss_G: 0.42350394810949055
+
+=============== Epoch: 177
+
+Train loss_D: 1.886264203429164
+Train loss_G: 0.0
+Test loss_G: 0.42350394810949055
+
+=============== Epoch: 178
+
+Train loss_D: 0.427762906467251
+Train loss_G: 0.0
+Test loss_G: 0.42350394810949055
+
+=============== Epoch: 179
+
+Train loss_D: 2.7041437778225372
+Train loss_G: 0.12185076996684074
+Test loss_G: 0.42294986120292116
+
+=============== Epoch: 180
+
+Train loss_D: 9.588067810989742
+Train loss_G: 0.0
+Test loss_G: 0.42266138536589487
+
+=============== Epoch: 181
+
+Train loss_D: 3.3406098575651413
+Train loss_G: 0.0
+Test loss_G: 0.4226570193256651
+
+=============== Epoch: 182
+
+Train loss_D: 4.662954683717544
+Train loss_G: 0.0
+Test loss_G: 0.4226569341761725
+
+=============== Epoch: 183
+
+Train loss_D: 7.162260859957314
+Train loss_G: 0.0
+Test loss_G: 0.4226569341761725
+
+=============== Epoch: 184
+
+Train loss_D: 1.0529976570542203
+Train loss_G: 0.0
+Test loss_G: 0.42265693843364716
+
+=============== Epoch: 185
+
+Train loss_D: 13.346788302871573
+Train loss_G: 0.0
+Test loss_G: 0.4226569341761725
+
+=============== Epoch: 186
+
+Train loss_D: 0.30792397964250995
+Train loss_G: 0.0
+Test loss_G: 0.4226569341761725
+
+=============== Epoch: 187
+
+Train loss_D: 27.436098426103854
+Train loss_G: 0.0
+Test loss_G: 0.4226569341761725
+
+=============== Epoch: 188
+
+Train loss_D: 0.7479183345858473
+Train loss_G: 0.0
+Test loss_G: 0.4226569341761725
+
+=============== Epoch: 189
+
+Train loss_D: 15.97578749573222
+Train loss_G: 0.11981829824416261
+Test loss_G: 0.42172988397734507
+
+=============== Epoch: 190
+
+Train loss_D: 0.7015682312048739
+Train loss_G: 0.0
+Test loss_G: 0.4225925845759256
+
+=============== Epoch: 191
+
+Train loss_D: 4.559376085060649
+Train loss_G: 0.0
+Test loss_G: 0.4226375286068235
+
+=============== Epoch: 192
+
+Train loss_D: 9.071590604209632
+Train loss_G: 0.0
+Test loss_G: 0.4226383460419519
+
+=============== Epoch: 193
+
+Train loss_D: 0.441177788299683
+Train loss_G: 0.0
+Test loss_G: 0.4226383737155369
+
+=============== Epoch: 194
+
+Train loss_D: 23.82673734684431
+Train loss_G: 0.0
+Test loss_G: 0.4226383715867996
+
+=============== Epoch: 195
+
+Train loss_D: 0.7930791093676817
+Train loss_G: 0.0
+Test loss_G: 0.4226383715867996
+
+=============== Epoch: 196
+
+Train loss_D: 0.36722889392331126
+Train loss_G: 0.0
+Test loss_G: 0.4226383715867996
+
+=============== Epoch: 197
+
+Train loss_D: 9.014871485269396
+Train loss_G: 0.0
+Test loss_G: 0.4226383715867996
+
+=============== Epoch: 198
+
+Train loss_D: 8.766583447591984
+Train loss_G: 0.0
+Test loss_G: 0.4226383715867996
+
+=============== Epoch: 199
+
+Train loss_D: 0.23432765580218984
+Train loss_G: 0.11782800445431157
+Test loss_G: 0.42280372764383045
+
+=============== Epoch: 200
+
+Train loss_D: 58.190875575825885
+Train loss_G: 0.0
+Test loss_G: 0.42205885691302164
+
+=============== Epoch: 201
+
+Train loss_D: 1.4711730870621977
+Train loss_G: 0.0
+Test loss_G: 0.4220465357814516
+
+=============== Epoch: 202
+
+Train loss_D: 0.4349100876497687
+Train loss_G: 0.0
+Test loss_G: 0.42204631652150837
+
+=============== Epoch: 203
+
+Train loss_D: 2.2353205893850827
+Train loss_G: 0.0
+Test loss_G: 0.42204631652150837
+
+=============== Epoch: 204
+
+Train loss_D: 5.420812066007784
+Train loss_G: 0.0
+Test loss_G: 0.4220463122640337
+
+=============== Epoch: 205
+
+Train loss_D: 1.89983822350041
+Train loss_G: 0.0
+Test loss_G: 0.4220463122640337
+
+=============== Epoch: 206
+
+Train loss_D: 9.743776280312886
+Train loss_G: 0.0
+Test loss_G: 0.4220463122640337
+
+=============== Epoch: 207
+
+Train loss_D: 0.35963152066688053
+Train loss_G: 0.0
+Test loss_G: 0.4220463122640337
+
+=============== Epoch: 208
+
+Train loss_D: 5.687583860468294
+Train loss_G: 0.0
+Test loss_G: 0.4220463122640337
+
+=============== Epoch: 209
+
+Train loss_D: 0.6095458814234007
+Train loss_G: 0.11661185108517345
+Test loss_G: 0.4212075046130589
+
+=============== Epoch: 210
+
+Train loss_D: 18.41142728450359
+Train loss_G: 0.0
+Test loss_G: 0.4222335623843329
+
+=============== Epoch: 211
+
+Train loss_D: 9.481022278509045
+Train loss_G: 0.0
+Test loss_G: 0.42227848299912046
+
+=============== Epoch: 212
+
+Train loss_D: 0.31495194735907717
+Train loss_G: 0.0
+Test loss_G: 0.42227930043424877
+
+=============== Epoch: 213
+
+Train loss_D: 1.6725530200528738
+Train loss_G: 0.0
+Test loss_G: 0.42227932810783386
+
+=============== Epoch: 214
+
+Train loss_D: 1.3921026431380596
+Train loss_G: 0.0
+Test loss_G: 0.4222793323653085
+
+=============== Epoch: 215
+
+Train loss_D: 1.198815157305944
+Train loss_G: 0.0
+Test loss_G: 0.4222793323653085
+
+=============== Epoch: 216
+
+Train loss_D: 9.369347288165955
+Train loss_G: 0.0
+Test loss_G: 0.4222793323653085
+
+=============== Epoch: 217
+
+Train loss_D: 0.5191082703386201
+Train loss_G: 0.0
+Test loss_G: 0.4222793323653085
+
+=============== Epoch: 218
+
+Train loss_D: 75.9772909600706
+Train loss_G: 0.0
+Test loss_G: 0.4222793323653085
+
+=============== Epoch: 219
+
+Train loss_D: 0.8658068483127863
+Train loss_G: 0.11447022188650935
+Test loss_G: 0.42194771128041403
+
+=============== Epoch: 220
+
+Train loss_D: 0.9576657761135721
+Train loss_G: 0.0
+Test loss_G: 0.42153704379286083
+
+=============== Epoch: 221
+
+Train loss_D: 24.647033048355297
+Train loss_G: 0.0
+Test loss_G: 0.4215314579861505
+
+=============== Epoch: 222
+
+Train loss_D: 0.866736098745605
+Train loss_G: 0.0
+Test loss_G: 0.42153135580675943
+
+=============== Epoch: 223
+
+Train loss_D: 1.0139102369757893
+Train loss_G: 0.0
+Test loss_G: 0.42153134516307283
+
+=============== Epoch: 224
+
+Train loss_D: 128.13896872274563
+Train loss_G: 0.0
+Test loss_G: 0.42153136006423403
+
+=============== Epoch: 225
+
+Train loss_D: 1.2321827397681773
+Train loss_G: 0.0
+Test loss_G: 0.42153136006423403
+
+=============== Epoch: 226
+
+Train loss_D: 0.41158332787745167
+Train loss_G: 0.0
+Test loss_G: 0.42153136006423403
+
+=============== Epoch: 227
+
+Train loss_D: 8.78759721395545
+Train loss_G: 0.0
+Test loss_G: 0.42153136006423403
+
+=============== Epoch: 228
+
+Train loss_D: 1.59745634689898
+Train loss_G: 0.0
+Test loss_G: 0.42153136006423403
+
+=============== Epoch: 229
+
+Train loss_D: 6.608022862972575
+Train loss_G: 0.11401107632800152
+Test loss_G: 0.42101709970406126
+
+=============== Epoch: 230
+
+Train loss_D: 5.523530785772891
+Train loss_G: 0.0
+Test loss_G: 0.4217703512736729
+
+=============== Epoch: 231
+
+Train loss_D: 75.64436704761465
+Train loss_G: 0.0
+Test loss_G: 0.42180069216660093
+
+=============== Epoch: 232
+
+Train loss_D: 1.2272712448102538
+Train loss_G: 0.0
+Test loss_G: 0.42180125628198895
+
+=============== Epoch: 233
+
+Train loss_D: 0.5629263289229129
+Train loss_G: 0.0
+Test loss_G: 0.4218012647969382
+
+=============== Epoch: 234
+
+Train loss_D: 26.080847168515902
+Train loss_G: 0.0
+Test loss_G: 0.42180126905441284
+
+=============== Epoch: 235
+
+Train loss_D: 0.691486079536844
+Train loss_G: 0.0
+Test loss_G: 0.42180126905441284
+
+=============== Epoch: 236
+
+Train loss_D: 4.768817852775101
+Train loss_G: 0.0
+Test loss_G: 0.42180126905441284
+
+=============== Epoch: 237
+
+Train loss_D: 4.880417273961939
+Train loss_G: 0.0
+Test loss_G: 0.42180126905441284
+
+=============== Epoch: 238
+
+Train loss_D: 0.3846314719703514
+Train loss_G: 0.0
+Test loss_G: 0.42180126905441284
+
+=============== Epoch: 239
+
+Train loss_D: 4.956451462763653
+Train loss_G: 0.11183700181151691
+Test loss_G: 0.42136397106306894
+
+=============== Epoch: 240
+
+Train loss_D: 154.9401221885273
+Train loss_G: 0.0
+Test loss_G: 0.42083965454782757
+
+=============== Epoch: 241
+
+Train loss_D: 1.1631891561846714
+Train loss_G: 0.0
+Test loss_G: 0.4208380026476724
+
+=============== Epoch: 242
+
+Train loss_D: 0.5240910544089274
+Train loss_G: 0.0
+Test loss_G: 0.42083797284535
+
+=============== Epoch: 243
+
+Train loss_D: 5.2602582565559715
+Train loss_G: 0.0
+Test loss_G: 0.42083797284535
+
+=============== Epoch: 244
+
+Train loss_D: 1.860873375851952
+Train loss_G: 0.0
+Test loss_G: 0.4208379749740873
+
+=============== Epoch: 245
+
+Train loss_D: 105.39662015585054
+Train loss_G: 0.0
+Test loss_G: 0.4208379771028246
+
+=============== Epoch: 246
+
+Train loss_D: 2.1209253955457825
+Train loss_G: 0.0
+Test loss_G: 0.4208379771028246
+
+=============== Epoch: 247
+
+Train loss_D: 0.5284943382139318
+Train loss_G: 0.0
+Test loss_G: 0.4208379771028246
+
+=============== Epoch: 248
+
+Train loss_D: 3.8859398489912564
+Train loss_G: 0.0
+Test loss_G: 0.4208379771028246
+
+=============== Epoch: 249
+
+Train loss_D: 949.1328029121796
+Train loss_G: 7.004976862355282
+Test loss_G: 0.5396464041301182
+
+=============== Epoch: 250
+
+Train loss_D: 149.02496003196575
+Train loss_G: 0.0
+Test loss_G: 0.5671388379165104
+
+=============== Epoch: 251
+
+Train loss_D: 1.990487566756201
+Train loss_G: 0.0
+Test loss_G: 0.5677196383476257
+
+=============== Epoch: 252
+
+Train loss_D: 0.819884905948129
+Train loss_G: 0.0
+Test loss_G: 0.5677302607468196
+
+=============== Epoch: 253
+
+Train loss_D: 39.59979747870784
+Train loss_G: 0.0
+Test loss_G: 0.567730439560754
+
+=============== Epoch: 254
+
+Train loss_D: 0.333798229000422
+Train loss_G: 0.0
+Test loss_G: 0.5677304523331779
+
+=============== Epoch: 255
+
+Train loss_D: 0.06870042450327674
+Train loss_G: 0.0
+Test loss_G: 0.5677304480757032
+
+=============== Epoch: 256
+
+Train loss_D: 0.015193984914901648
+Train loss_G: 0.0
+Test loss_G: 0.5677304480757032
+
+=============== Epoch: 257
+
+Train loss_D: 28.896749804453904
+Train loss_G: 0.0
+Test loss_G: 0.5677304480757032
+
+=============== Epoch: 258
+
+Train loss_D: 0.020021967084133507
+Train loss_G: 0.0
+Test loss_G: 0.5677304480757032
+
+=============== Epoch: 259
+
+Train loss_D: 299.4266568292801
+Train loss_G: 6.8880479774977035
+Test loss_G: 0.6059951654502324
+
+=============== Epoch: 260
+
+Train loss_D: 176.6805937308818
+Train loss_G: 0.0
+Test loss_G: 0.5928019114903041
+
+=============== Epoch: 261
+
+Train loss_D: 209.282445772551
+Train loss_G: 0.0
+Test loss_G: 0.5925695172377995
+
+=============== Epoch: 262
+
+Train loss_D: 123.02102165017277
+Train loss_G: 0.0
+Test loss_G: 0.5925652640206474
+
+=============== Epoch: 263
+
+Train loss_D: 19.775625719688833
+Train loss_G: 0.0
+Test loss_G: 0.5925651916435787
+
+=============== Epoch: 264
+
+Train loss_D: 55.66739706741646
+Train loss_G: 0.0
+Test loss_G: 0.5925651916435787
+
+=============== Epoch: 265
+
+Train loss_D: 109.39486066857353
+Train loss_G: 0.0
+Test loss_G: 0.5925651916435787
+
+=============== Epoch: 266
+
+Train loss_D: 9.538079797988757
+Train loss_G: 0.0
+Test loss_G: 0.5925651916435787
+
+=============== Epoch: 267
+
+Train loss_D: 47.820108609157614
+Train loss_G: 0.0
+Test loss_G: 0.5925651916435787
+
+=============== Epoch: 268
+
+Train loss_D: 131.7108290391625
+Train loss_G: 0.0
+Test loss_G: 0.5925651916435787
+
+=============== Epoch: 269
+
+Train loss_D: 21.474513941211626
+Train loss_G: 5.937531571639211
+Test loss_G: 0.6952901908329555
+
+=============== Epoch: 270
+
+Train loss_D: 0.892880386847537
+Train loss_G: 0.0
+Test loss_G: 0.6549217317785535
+
+=============== Epoch: 271
+
+Train loss_D: 0.058359554610433406
+Train loss_G: 0.0
+Test loss_G: 0.6543817903314318
+
+=============== Epoch: 272
+
+Train loss_D: 1441.7364763698133
+Train loss_G: 0.0
+Test loss_G: 0.6543719811098916
+
+=============== Epoch: 273
+
+Train loss_D: 0.27031936309458615
+Train loss_G: 0.0
+Test loss_G: 0.6543717980384827
+
+=============== Epoch: 274
+
+Train loss_D: 0.022540837395354174
+Train loss_G: 0.0
+Test loss_G: 0.6543717980384827
+
+=============== Epoch: 275
+
+Train loss_D: 0.005448774373462584
+Train loss_G: 0.0
+Test loss_G: 0.6543717980384827
+
+=============== Epoch: 276
+
+Train loss_D: 0.0020806386926324194
+Train loss_G: 0.0
+Test loss_G: 0.6543717980384827
+
+=============== Epoch: 277
+
+Train loss_D: 1836.759172321621
+Train loss_G: 0.0
+Test loss_G: 0.6543717980384827
+
+=============== Epoch: 278
+
+Train loss_D: 0.588258829540564
+Train loss_G: 0.0
+Test loss_G: 0.6543717980384827
+
+=============== Epoch: 279
+
+Train loss_D: 512.0114484899441
+Train loss_G: 6.97544411922756
+Test loss_G: 0.5089299976825714
+
+=============== Epoch: 280
+
+Train loss_D: 397.2505450323224
+Train loss_G: 0.0
+Test loss_G: 0.507037062730108
+
+=============== Epoch: 281
+
+Train loss_D: 155.624048223719
+Train loss_G: 0.0
+Test loss_G: 0.5075240177767617
+
+=============== Epoch: 282
+
+Train loss_D: 243.33592631481588
+Train loss_G: 0.0
+Test loss_G: 0.5075331543173108
+
+=============== Epoch: 283
+
+Train loss_D: 27.012221545446664
+Train loss_G: 0.0
+Test loss_G: 0.507533324616296
+
+=============== Epoch: 284
+
+Train loss_D: 16.865680811344646
+Train loss_G: 0.0
+Test loss_G: 0.507533324616296
+
+=============== Epoch: 285
+
+Train loss_D: 367.0530541508924
+Train loss_G: 0.0
+Test loss_G: 0.507533324616296
+
+=============== Epoch: 286
+
+Train loss_D: 1.5904110101691913
+Train loss_G: 0.0
+Test loss_G: 0.507533324616296
+
+=============== Epoch: 287
+
+Train loss_D: 149.798874424494
+Train loss_G: 0.0
+Test loss_G: 0.507533324616296
+
+=============== Epoch: 288
+
+Train loss_D: 13.239046843504184
+Train loss_G: 0.0
+Test loss_G: 0.507533324616296
+
+=============== Epoch: 289
+
+Train loss_D: 535.0726574116852
+Train loss_G: 5.116971062986474
+Test loss_G: 0.518054894038609
+
+=============== Epoch: 290
+
+Train loss_D: 366.270528441295
+Train loss_G: 0.0
+Test loss_G: 0.5165486655064991
+
+=============== Epoch: 291
+
+Train loss_D: 44.727997068781406
+Train loss_G: 0.0
+Test loss_G: 0.5166075825691223
+
+=============== Epoch: 292
+
+Train loss_D: 715.2328568468802
+Train loss_G: 0.0
+Test loss_G: 0.5166086788688388
+
+=============== Epoch: 293
+
+Train loss_D: 23.480524111073464
+Train loss_G: 0.0
+Test loss_G: 0.5166087065424237
+
+=============== Epoch: 294
+
+Train loss_D: 12.502262045978568
+Train loss_G: 0.0
+Test loss_G: 0.5166087065424237
+
+=============== Epoch: 295
+
+Train loss_D: 249.2342094189953
+Train loss_G: 0.0
+Test loss_G: 0.5166087107998985
+
+=============== Epoch: 296
+
+Train loss_D: 8.534943030332215
+Train loss_G: 0.0
+Test loss_G: 0.5166087107998985
+
+=============== Epoch: 297
+
+Train loss_D: 43.67323123951792
+Train loss_G: 0.0
+Test loss_G: 0.5166087107998985
+
+=============== Epoch: 298
+
+Train loss_D: 1.0396493091830052
+Train loss_G: 0.0
+Test loss_G: 0.5166087107998985
+
+=============== Epoch: 299
+
+Train loss_D: 776.4495318103582
+Train loss_G: 5.4749152691740735
+Test loss_G: 0.4698751206908907
+
+=============== Epoch: 300
+
+Train loss_D: 568.1421150863171
+Train loss_G: 0.0
+Test loss_G: 0.46355066129139494
+
+=============== Epoch: 301
+
+Train loss_D: 229.01583283022046
+Train loss_G: 0.0
+Test loss_G: 0.4634719022682735
+
+=============== Epoch: 302
+
+Train loss_D: 201.6654627416283
+Train loss_G: 0.0
+Test loss_G: 0.46347048452922274
+
+=============== Epoch: 303
+
+Train loss_D: 157.67559928959236
+Train loss_G: 0.0
+Test loss_G: 0.46347045046942575
+
+=============== Epoch: 304
+
+Train loss_D: 46.94432178651914
+Train loss_G: 0.0
+Test loss_G: 0.46347045472690035
+
+=============== Epoch: 305
+
+Train loss_D: 355.5922691472806
+Train loss_G: 0.0
+Test loss_G: 0.46347045046942575
+
+=============== Epoch: 306
+
+Train loss_D: 65.90417174249887
+Train loss_G: 0.0
+Test loss_G: 0.46347045046942575
+
+=============== Epoch: 307
+
+Train loss_D: 154.10825248318724
+Train loss_G: 0.0
+Test loss_G: 0.46347045046942575
+
+=============== Epoch: 308
+
+Train loss_D: 224.22611149493605
+Train loss_G: 0.0
+Test loss_G: 0.46347045046942575
+
+=============== Epoch: 309
+
+Train loss_D: 448.2552070878446
+Train loss_G: 4.734551481510463
+Test loss_G: 0.467736684850284
+
+=============== Epoch: 310
+
+Train loss_D: 332.8233209718019
+Train loss_G: 0.0
+Test loss_G: 0.47113784296172007
+
+=============== Epoch: 311
+
+Train loss_D: 149.19623993057758
+Train loss_G: 0.0
+Test loss_G: 0.47125324819769177
+
+=============== Epoch: 312
+
+Train loss_D: 138.50273787556216
+Train loss_G: 0.0
+Test loss_G: 0.47125538544995443
+
+=============== Epoch: 313
+
+Train loss_D: 74.54597292467952
+Train loss_G: 0.0
+Test loss_G: 0.47125542163848877
+
+=============== Epoch: 314
+
+Train loss_D: 128.38510107947513
+Train loss_G: 0.0
+Test loss_G: 0.4712554280247007
+
+=============== Epoch: 315
+
+Train loss_D: 12.39166506822221
+Train loss_G: 0.0
+Test loss_G: 0.4712554258959634
+
+=============== Epoch: 316
+
+Train loss_D: 103.80712732905522
+Train loss_G: 0.0
+Test loss_G: 0.4712554258959634
+
+=============== Epoch: 317
+
+Train loss_D: 4.10942972736666
+Train loss_G: 0.0
+Test loss_G: 0.4712554258959634
+
+=============== Epoch: 318
+
+Train loss_D: 25.52867346923449
+Train loss_G: 0.0
+Test loss_G: 0.4712554258959634
+
+=============== Epoch: 319
+
+Train loss_D: 1149.5923774426337
+Train loss_G: 3.780602437885184
+Test loss_G: 0.472384580544063
+
+=============== Epoch: 320
+
+Train loss_D: 488.3747394680977
+Train loss_G: 0.0
+Test loss_G: 0.48292011661188944
+
+=============== Epoch: 321
+
+Train loss_D: 258.3668829575181
+Train loss_G: 0.0
+Test loss_G: 0.4831544927188328
+
+=============== Epoch: 322
+
+Train loss_D: 346.92930612154305
+Train loss_G: 0.0
+Test loss_G: 0.48315878425325665
+
+=============== Epoch: 323
+
+Train loss_D: 214.9081872580573
+Train loss_G: 0.0
+Test loss_G: 0.4831588587590626
+
+=============== Epoch: 324
+
+Train loss_D: 63.26425317209214
+Train loss_G: 0.0
+Test loss_G: 0.48315886301653727
+
+=============== Epoch: 325
+
+Train loss_D: 206.25905974395573
+Train loss_G: 0.0
+Test loss_G: 0.48315886301653727
+
+=============== Epoch: 326
+
+Train loss_D: 172.09734321199358
+Train loss_G: 0.0
+Test loss_G: 0.48315886301653727
+
+=============== Epoch: 327
+
+Train loss_D: 172.0654720729217
+Train loss_G: 0.0
+Test loss_G: 0.48315886301653727
+
+=============== Epoch: 328
+
+Train loss_D: 133.84113238798454
+Train loss_G: 0.0
+Test loss_G: 0.48315886301653727
+
+=============== Epoch: 329
+
+Train loss_D: 1384.3793519735336
+Train loss_G: 2.8341105729341507
+Test loss_G: 0.4790251063449042
+
+=============== Epoch: 330
+
+Train loss_D: 704.4369407296181
+Train loss_G: 0.0
+Test loss_G: 0.47479416004249025
+
+=============== Epoch: 331
+
+Train loss_D: 461.1124992966652
+Train loss_G: 0.0
+Test loss_G: 0.474740275314876
+
+=============== Epoch: 332
+
+Train loss_D: 343.45295411348343
+Train loss_G: 0.0
+Test loss_G: 0.47473929822444916
+
+=============== Epoch: 333
+
+Train loss_D: 324.16665457189083
+Train loss_G: 0.0
+Test loss_G: 0.47473928119455067
+
+=============== Epoch: 334
+
+Train loss_D: 229.58306611329317
+Train loss_G: 0.0
+Test loss_G: 0.47473928545202526
+
+=============== Epoch: 335
+
+Train loss_D: 234.78903055004776
+Train loss_G: 0.0
+Test loss_G: 0.47473928545202526
+
+=============== Epoch: 336
+
+Train loss_D: 117.21403954084963
+Train loss_G: 0.0
+Test loss_G: 0.47473928545202526
+
+=============== Epoch: 337
+
+Train loss_D: 159.74685945548117
+Train loss_G: 0.0
+Test loss_G: 0.47473928545202526
+
+=============== Epoch: 338
+
+Train loss_D: 238.52671706862748
+Train loss_G: 0.0
+Test loss_G: 0.47473928545202526
+
+=============== Epoch: 339
+
+Train loss_D: 946.4139088541269
+Train loss_G: 3.9212707120336985
+Test loss_G: 0.4879126782928194
+
+=============== Epoch: 340
+
+Train loss_D: 333.50853514671326
+Train loss_G: 0.0
+Test loss_G: 0.48951947689056396
+
+=============== Epoch: 341
+
+Train loss_D: 186.95237509533763
+Train loss_G: 0.0
+Test loss_G: 0.48956222193581717
+
+=============== Epoch: 342
+
+Train loss_D: 145.2641317397356
+Train loss_G: 0.0
+Test loss_G: 0.4895630308559963
+
+=============== Epoch: 343
+
+Train loss_D: 14.546024275710806
+Train loss_G: 0.0
+Test loss_G: 0.4895630351134709
+
+=============== Epoch: 344
+
+Train loss_D: 87.03841868415475
+Train loss_G: 0.0
+Test loss_G: 0.48956302872725893
+
+=============== Epoch: 345
+
+Train loss_D: 124.51425956515595
+Train loss_G: 0.0
+Test loss_G: 0.4895630308559963
+
+=============== Epoch: 346
+
+Train loss_D: 29.39688087173272
+Train loss_G: 0.0
+Test loss_G: 0.4895630308559963
+
+=============== Epoch: 347
+
+Train loss_D: 60.955932713346556
+Train loss_G: 0.0
+Test loss_G: 0.4895630308559963
+
+=============== Epoch: 348
+
+Train loss_D: 2.7126503832405433
+Train loss_G: 0.0
+Test loss_G: 0.4895630308559963
+
+=============== Epoch: 349
+
+Train loss_D: 1364.6048694476485
+Train loss_G: 4.601309098695454
+Test loss_G: 0.4761193777833666
+
+=============== Epoch: 350
+
+Train loss_D: 357.1468887925148
+Train loss_G: 0.0
+Test loss_G: 0.47353312586035046
+
+=============== Epoch: 351
+
+Train loss_D: 247.480781766586
+Train loss_G: 0.0
+Test loss_G: 0.47351496134485516
+
+=============== Epoch: 352
+
+Train loss_D: 21.45863707968965
+Train loss_G: 0.0
+Test loss_G: 0.4735146335193089
+
+=============== Epoch: 353
+
+Train loss_D: 137.88139928504825
+Train loss_G: 0.0
+Test loss_G: 0.4735146164894104
+
+=============== Epoch: 354
+
+Train loss_D: 115.85147332481574
+Train loss_G: 0.0
+Test loss_G: 0.4735146143606731
+
+=============== Epoch: 355
+
+Train loss_D: 66.69732758845203
+Train loss_G: 0.0
+Test loss_G: 0.4735146164894104
+
+=============== Epoch: 356
+
+Train loss_D: 68.07956933131209
+Train loss_G: 0.0
+Test loss_G: 0.4735146164894104
+
+=============== Epoch: 357
+
+Train loss_D: 79.60809009151126
+Train loss_G: 0.0
+Test loss_G: 0.4735146164894104
+
+=============== Epoch: 358
+
+Train loss_D: 8.573109628458042
+Train loss_G: 0.0
+Test loss_G: 0.4735146164894104
+
+=============== Epoch: 359
+
+Train loss_D: 1170.136547446251
+Train loss_G: 3.850567533781654
+Test loss_G: 0.4972120353153774
+
+=============== Epoch: 360
+
+Train loss_D: 478.46264766156673
+Train loss_G: 0.0
+Test loss_G: 0.48463739241872517
+
+=============== Epoch: 361
+
+Train loss_D: 279.1787703037262
+Train loss_G: 0.0
+Test loss_G: 0.4844249188899994
+
+=============== Epoch: 362
+
+Train loss_D: 202.0243398807943
+Train loss_G: 0.0
+Test loss_G: 0.4844210467168263
+
+=============== Epoch: 363
+
+Train loss_D: 152.58533005602658
+Train loss_G: 0.0
+Test loss_G: 0.48442097433975767
+
+=============== Epoch: 364
+
+Train loss_D: 177.31031985674053
+Train loss_G: 0.0
+Test loss_G: 0.48442097433975767
+
+=============== Epoch: 365
+
+Train loss_D: 139.59382230276242
+Train loss_G: 0.0
+Test loss_G: 0.48442097433975767
+
+=============== Epoch: 366
+
+Train loss_D: 129.0227268151939
+Train loss_G: 0.0
+Test loss_G: 0.48442097433975767
+
+=============== Epoch: 367
+
+Train loss_D: 34.9437369084917
+Train loss_G: 0.0
+Test loss_G: 0.48442097433975767
+
+=============== Epoch: 368
+
+Train loss_D: 126.44479951029643
+Train loss_G: 0.0
+Test loss_G: 0.48442097433975767
+
+=============== Epoch: 369
+
+Train loss_D: 1242.3908669054508
+Train loss_G: 2.674360181155958
+Test loss_G: 0.47993285953998566
+
+=============== Epoch: 370
+
+Train loss_D: 643.6642158031464
+Train loss_G: 0.0
+Test loss_G: 0.4677756833178656
+
+=============== Epoch: 371
+
+Train loss_D: 280.1778855547309
+Train loss_G: 0.0
+Test loss_G: 0.46758246421813965
+
+=============== Epoch: 372
+
+Train loss_D: 175.9730703867972
+Train loss_G: 0.0
+Test loss_G: 0.4675789496728352
+
+=============== Epoch: 373
+
+Train loss_D: 233.68468250893056
+Train loss_G: 0.0
+Test loss_G: 0.4675788858107158
+
+=============== Epoch: 374
+
+Train loss_D: 111.78174583194777
+Train loss_G: 0.0
+Test loss_G: 0.4675788879394531
+
+=============== Epoch: 375
+
+Train loss_D: 36.7104525542818
+Train loss_G: 0.0
+Test loss_G: 0.4675788879394531
+
+=============== Epoch: 376
+
+Train loss_D: 181.506122849416
+Train loss_G: 0.0
+Test loss_G: 0.4675788879394531
+
+=============== Epoch: 377
+
+Train loss_D: 115.52547967853025
+Train loss_G: 0.0
+Test loss_G: 0.4675788879394531
+
+=============== Epoch: 378
+
+Train loss_D: 103.61264663469046
+Train loss_G: 0.0
+Test loss_G: 0.4675788879394531
+
+=============== Epoch: 379
+
+Train loss_D: 974.3788973391056
+Train loss_G: 2.265340594868911
+Test loss_G: 0.5039004342896598
+
+=============== Epoch: 380
+
+Train loss_D: 618.8770547509193
+Train loss_G: 0.0
+Test loss_G: 0.4883857731308256
+
+=============== Epoch: 381
+
+Train loss_D: 285.4313970506191
+Train loss_G: 0.0
+Test loss_G: 0.488238194159099
+
+=============== Epoch: 382
+
+Train loss_D: 202.76923579722643
+Train loss_G: 0.0
+Test loss_G: 0.48823553110872
+
+=============== Epoch: 383
+
+Train loss_D: 167.72259314963594
+Train loss_G: 0.0
+Test loss_G: 0.48823549492018564
+
+=============== Epoch: 384
+
+Train loss_D: 116.60909608006477
+Train loss_G: 0.0
+Test loss_G: 0.48823549704892294
+
+=============== Epoch: 385
+
+Train loss_D: 139.27185079688206
+Train loss_G: 0.0
+Test loss_G: 0.48823549279144834
+
+=============== Epoch: 386
+
+Train loss_D: 123.19304695166647
+Train loss_G: 0.0
+Test loss_G: 0.48823549279144834
+
+=============== Epoch: 387
+
+Train loss_D: 93.77962635224685
+Train loss_G: 0.0
+Test loss_G: 0.48823549279144834
+
+=============== Epoch: 388
+
+Train loss_D: 115.43244502553716
+Train loss_G: 0.0
+Test loss_G: 0.48823549279144834
+
+=============== Epoch: 389
+
+Train loss_D: 1173.1473017185926
+Train loss_G: 1.708901308084789
+Test loss_G: 0.468846789428166
+
+=============== Epoch: 390
+
+Train loss_D: 758.7557125091553
+Train loss_G: 0.0
+Test loss_G: 0.47863103449344635
+
+=============== Epoch: 391
+
+Train loss_D: 520.0925015509129
+Train loss_G: 0.0
+Test loss_G: 0.47883632140500204
+
+=============== Epoch: 392
+
+Train loss_D: 506.9059603959322
+Train loss_G: 0.0
+Test loss_G: 0.47884007011141094
+
+=============== Epoch: 393
+
+Train loss_D: 210.75264568254352
+Train loss_G: 0.0
+Test loss_G: 0.4788401424884796
+
+=============== Epoch: 394
+
+Train loss_D: 365.15297134034336
+Train loss_G: 0.0
+Test loss_G: 0.47884014887469156
+
+=============== Epoch: 395
+
+Train loss_D: 188.3735933844
+Train loss_G: 0.0
+Test loss_G: 0.47884014887469156
+
+=============== Epoch: 396
+
+Train loss_D: 149.91671996656805
+Train loss_G: 0.0
+Test loss_G: 0.47884014887469156
+
+=============== Epoch: 397
+
+Train loss_D: 173.2216993831098
+Train loss_G: 0.0
+Test loss_G: 0.47884014887469156
+
+=============== Epoch: 398
+
+Train loss_D: 30.11333978921175
+Train loss_G: 0.0
+Test loss_G: 0.47884014887469156
+
+=============== Epoch: 399
+
+Train loss_D: 1290.9591379761696
+Train loss_G: 3.3993605987021795
+Test loss_G: 0.472131963287081
+
+=============== Epoch: 400
+
+Train loss_D: 554.3505451977253
+Train loss_G: 0.0
+Test loss_G: 0.4731083469731467
+
+=============== Epoch: 401
+
+Train loss_D: 276.43233043700457
+Train loss_G: 0.0
+Test loss_G: 0.4731257004397256
+
+=============== Epoch: 402
+
+Train loss_D: 208.27600330486894
+Train loss_G: 0.0
+Test loss_G: 0.47312602400779724
+
+=============== Epoch: 403
+
+Train loss_D: 235.28941075131297
+Train loss_G: 0.0
+Test loss_G: 0.4731260303940092
+
+=============== Epoch: 404
+
+Train loss_D: 159.28777089063078
+Train loss_G: 0.0
+Test loss_G: 0.4731260282652719
+
+=============== Epoch: 405
+
+Train loss_D: 143.21413995092735
+Train loss_G: 0.0
+Test loss_G: 0.4731260303940092
+
+=============== Epoch: 406
+
+Train loss_D: 112.96714985277504
+Train loss_G: 0.0
+Test loss_G: 0.4731260303940092
+
+=============== Epoch: 407
+
+Train loss_D: 59.00533496798016
+Train loss_G: 0.0
+Test loss_G: 0.4731260303940092
+
+=============== Epoch: 408
+
+Train loss_D: 82.7087222780101
+Train loss_G: 0.0
+Test loss_G: 0.4731260303940092
+
+=============== Epoch: 409
+
+Train loss_D: 907.3636083900928
+Train loss_G: 2.732370796956514
+Test loss_G: 0.4939818041665213
+
+=============== Epoch: 410
+
+Train loss_D: 593.4077926278114
+Train loss_G: 0.0
+Test loss_G: 0.5012037221874509
+
+=============== Epoch: 411
+
+Train loss_D: 391.5185195952654
+Train loss_G: 0.0
+Test loss_G: 0.5013952404260635
+
+=============== Epoch: 412
+
+Train loss_D: 250.0309660732746
+Train loss_G: 0.0
+Test loss_G: 0.5013987379414695
+
+=============== Epoch: 413
+
+Train loss_D: 214.76052188500762
+Train loss_G: 0.0
+Test loss_G: 0.5013987996748516
+
+=============== Epoch: 414
+
+Train loss_D: 291.24078212305903
+Train loss_G: 0.0
+Test loss_G: 0.5013987975461143
+
+=============== Epoch: 415
+
+Train loss_D: 264.8493577679619
+Train loss_G: 0.0
+Test loss_G: 0.5013987975461143
+
+=============== Epoch: 416
+
+Train loss_D: 209.61623339541256
+Train loss_G: 0.0
+Test loss_G: 0.5013987975461143
+
+=============== Epoch: 417
+
+Train loss_D: 239.183601943776
+Train loss_G: 0.0
+Test loss_G: 0.5013987975461143
+
+=============== Epoch: 418
+
+Train loss_D: 170.663559647277
+Train loss_G: 0.0
+Test loss_G: 0.5013987975461143
+
+=============== Epoch: 419
+
+Train loss_D: 517.1623461842537
+Train loss_G: 3.7867989257762305
+Test loss_G: 0.4985538295337132
+
+=============== Epoch: 420
+
+Train loss_D: 366.7114992290735
+Train loss_G: 0.0
+Test loss_G: 0.4887077531644276
+
+=============== Epoch: 421
+
+Train loss_D: 269.7154378313571
+Train loss_G: 0.0
+Test loss_G: 0.48862035998276304
+
+=============== Epoch: 422
+
+Train loss_D: 167.5669511309825
+Train loss_G: 0.0
+Test loss_G: 0.48861877620220184
+
+=============== Epoch: 423
+
+Train loss_D: 26.88244049763307
+Train loss_G: 0.0
+Test loss_G: 0.4886187527860914
+
+=============== Epoch: 424
+
+Train loss_D: 76.20246494887397
+Train loss_G: 0.0
+Test loss_G: 0.4886187527860914
+
+=============== Epoch: 425
+
+Train loss_D: 95.97225660225376
+Train loss_G: 0.0
+Test loss_G: 0.4886187527860914
+
+=============== Epoch: 426
+
+Train loss_D: 82.59950996178668
+Train loss_G: 0.0
+Test loss_G: 0.4886187527860914
+
+=============== Epoch: 427
+
+Train loss_D: 10.077683386974968
+Train loss_G: 0.0
+Test loss_G: 0.4886187527860914
+
+=============== Epoch: 428
+
+Train loss_D: 45.85311576281674
+Train loss_G: 0.0
+Test loss_G: 0.4886187527860914
+
+=============== Epoch: 429
+
+Train loss_D: 1408.5878916708753
+Train loss_G: 3.1535077063660872
+Test loss_G: 0.5111379048654011
+
+=============== Epoch: 430
+
+Train loss_D: 698.7779745161533
+Train loss_G: 0.0
+Test loss_G: 0.5031921927418027
+
+=============== Epoch: 431
+
+Train loss_D: 412.19889334589243
+Train loss_G: 0.0
+Test loss_G: 0.5030652263334819
+
+=============== Epoch: 432
+
+Train loss_D: 305.0369734838605
+Train loss_G: 0.0
+Test loss_G: 0.5030629102672849
+
+=============== Epoch: 433
+
+Train loss_D: 191.75779372639954
+Train loss_G: 0.0
+Test loss_G: 0.5030628783362252
+
+=============== Epoch: 434
+
+Train loss_D: 212.7889599595219
+Train loss_G: 0.0
+Test loss_G: 0.503062869821276
+
+=============== Epoch: 435
+
+Train loss_D: 209.5244929464534
+Train loss_G: 0.0
+Test loss_G: 0.503062869821276
+
+=============== Epoch: 436
+
+Train loss_D: 300.6503909099847
+Train loss_G: 0.0
+Test loss_G: 0.503062869821276
+
+=============== Epoch: 437
+
+Train loss_D: 174.56676739268005
+Train loss_G: 0.0
+Test loss_G: 0.503062869821276
+
+=============== Epoch: 438
+
+Train loss_D: 198.6510844361037
+Train loss_G: 0.0
+Test loss_G: 0.503062869821276
+
+=============== Epoch: 439
+
+Train loss_D: 1025.0432354211807
+Train loss_G: 1.692969477490375
+Test loss_G: 0.49650595017841886
+
+=============== Epoch: 440
+
+Train loss_D: 685.8795448839664
+Train loss_G: 0.0
+Test loss_G: 0.49738294524805887
+
+=============== Epoch: 441
+
+Train loss_D: 286.1822090148926
+Train loss_G: 0.0
+Test loss_G: 0.49740502664021086
+
+=============== Epoch: 442
+
+Train loss_D: 209.82644986361265
+Train loss_G: 0.0
+Test loss_G: 0.4974054311003004
+
+=============== Epoch: 443
+
+Train loss_D: 198.22745352983475
+Train loss_G: 0.0
+Test loss_G: 0.49740542471408844
+
+=============== Epoch: 444
+
+Train loss_D: 183.77218982204795
+Train loss_G: 0.0
+Test loss_G: 0.49740542471408844
+
+=============== Epoch: 445
+
+Train loss_D: 167.18464455287904
+Train loss_G: 0.0
+Test loss_G: 0.49740542471408844
+
+=============== Epoch: 446
+
+Train loss_D: 151.96437160111964
+Train loss_G: 0.0
+Test loss_G: 0.49740542471408844
+
+=============== Epoch: 447
+
+Train loss_D: 72.16917010955513
+Train loss_G: 0.0
+Test loss_G: 0.49740542471408844
+
+=============== Epoch: 448
+
+Train loss_D: 215.95424690749496
+Train loss_G: 0.0
+Test loss_G: 0.49740542471408844
+
+=============== Epoch: 449
+
+Train loss_D: 1300.4821863770485
+Train loss_G: 1.8746194917904704
+Test loss_G: 0.4869788374219622
+
+=============== Epoch: 450
+
+Train loss_D: 870.2801894545555
+Train loss_G: 0.0
+Test loss_G: 0.48670785554817747
+
+=============== Epoch: 451
+
+Train loss_D: 273.9686263129115
+Train loss_G: 0.0
+Test loss_G: 0.4867260732821056
+
+=============== Epoch: 452
+
+Train loss_D: 156.33923684991896
+Train loss_G: 0.0
+Test loss_G: 0.48672640536512646
+
+=============== Epoch: 453
+
+Train loss_D: 172.67989446036518
+Train loss_G: 0.0
+Test loss_G: 0.4867264074938638
+
+=============== Epoch: 454
+
+Train loss_D: 135.1403425950557
+Train loss_G: 0.0
+Test loss_G: 0.48672640536512646
+
+=============== Epoch: 455
+
+Train loss_D: 54.80062749888748
+Train loss_G: 0.0
+Test loss_G: 0.48672640536512646
+
+=============== Epoch: 456
+
+Train loss_D: 64.28074789745733
+Train loss_G: 0.0
+Test loss_G: 0.48672640536512646
+
+=============== Epoch: 457
+
+Train loss_D: 74.96444785967469
+Train loss_G: 0.0
+Test loss_G: 0.48672640536512646
+
+=============== Epoch: 458
+
+Train loss_D: 94.6312019363977
+Train loss_G: 0.0
+Test loss_G: 0.48672640536512646
+
+=============== Epoch: 459
+
+Train loss_D: 1716.8672787994146
+Train loss_G: 1.6669013468842757
+Test loss_G: 0.47645226546696257
+
+=============== Epoch: 460
+
+Train loss_D: 595.6268235146999
+Train loss_G: 0.0
+Test loss_G: 0.4755137243441173
+
+=============== Epoch: 461
+
+Train loss_D: 327.16941177845
+Train loss_G: 0.0
+Test loss_G: 0.4755023015396936
+
+=============== Epoch: 462
+
+Train loss_D: 241.19750222563744
+Train loss_G: 0.0
+Test loss_G: 0.475502080151013
+
+=============== Epoch: 463
+
+Train loss_D: 187.70001446455717
+Train loss_G: 0.0
+Test loss_G: 0.47550208440848757
+
+=============== Epoch: 464
+
+Train loss_D: 144.9834654778242
+Train loss_G: 0.0
+Test loss_G: 0.47550209292343687
+
+=============== Epoch: 465
+
+Train loss_D: 121.01893468946218
+Train loss_G: 0.0
+Test loss_G: 0.4755020865372249
+
+=============== Epoch: 466
+
+Train loss_D: 67.78986636502668
+Train loss_G: 0.0
+Test loss_G: 0.4755020865372249
+
+=============== Epoch: 467
+
+Train loss_D: 78.49945023097098
+Train loss_G: 0.0
+Test loss_G: 0.4755020865372249
+
+=============== Epoch: 468
+
+Train loss_D: 80.56486021028832
+Train loss_G: 0.0
+Test loss_G: 0.4755020865372249
+
+=============== Epoch: 469
+
+Train loss_D: 1201.0050214119256
+Train loss_G: 1.8426505060572373
+Test loss_G: 0.48925563054425375
+
+=============== Epoch: 470
+
+Train loss_D: 296.4130624309182
+Train loss_G: 0.0
+Test loss_G: 0.48229721188545227
+
+=============== Epoch: 471
+
+Train loss_D: 65.17723403288983
+Train loss_G: 0.0
+Test loss_G: 0.48220030324799673
+
+=============== Epoch: 472
+
+Train loss_D: 21.192476118798368
+Train loss_G: 0.0
+Test loss_G: 0.48219855555466246
+
+=============== Epoch: 473
+
+Train loss_D: 108.06994120869786
+Train loss_G: 0.0
+Test loss_G: 0.4821985193661281
+
+=============== Epoch: 474
+
+Train loss_D: 18.51120728580281
+Train loss_G: 0.0
+Test loss_G: 0.4821985193661281
+
+=============== Epoch: 475
+
+Train loss_D: 50.990922208176926
+Train loss_G: 0.0
+Test loss_G: 0.4821985193661281
+
+=============== Epoch: 476
+
+Train loss_D: 37.88918609323446
+Train loss_G: 0.0
+Test loss_G: 0.4821985193661281
+
+=============== Epoch: 477
+
+Train loss_D: 24.325895001675235
+Train loss_G: 0.0
+Test loss_G: 0.4821985193661281
+
+=============== Epoch: 478
+
+Train loss_D: 39.57444564480102
+Train loss_G: 0.0
+Test loss_G: 0.4821985193661281
+
+=============== Epoch: 479
+
+Train loss_D: 1385.2298825718462
+Train loss_G: 1.8816092861326117
+Test loss_G: 0.47198608943394255
+
+=============== Epoch: 480
+
+Train loss_D: 461.15536963939667
+Train loss_G: 0.0
+Test loss_G: 0.4735840452568872
+
+=============== Epoch: 481
+
+Train loss_D: 229.66736344248056
+Train loss_G: 0.0
+Test loss_G: 0.4736174132142748
+
+=============== Epoch: 482
+
+Train loss_D: 216.18974934332073
+Train loss_G: 0.0
+Test loss_G: 0.47361801138945986
+
+=============== Epoch: 483
+
+Train loss_D: 93.98319266363978
+Train loss_G: 0.0
+Test loss_G: 0.47361802416188375
+
+=============== Epoch: 484
+
+Train loss_D: 249.36020011268556
+Train loss_G: 0.0
+Test loss_G: 0.4736180284193584
+
+=============== Epoch: 485
+
+Train loss_D: 60.29755271039903
+Train loss_G: 0.0
+Test loss_G: 0.4736180284193584
+
+=============== Epoch: 486
+
+Train loss_D: 188.21555325994268
+Train loss_G: 0.0
+Test loss_G: 0.4736180284193584
+
+=============== Epoch: 487
+
+Train loss_D: 47.46595758898184
+Train loss_G: 0.0
+Test loss_G: 0.4736180284193584
+
+=============== Epoch: 488
+
+Train loss_D: 136.85673609003425
+Train loss_G: 0.0
+Test loss_G: 0.4736180284193584
+
+=============== Epoch: 489
+
+Train loss_D: 1159.7085231542587
+Train loss_G: 1.368105400549738
+Test loss_G: 0.4989606376205172
+
+=============== Epoch: 490
+
+Train loss_D: 666.0118573009968
+Train loss_G: 0.0
+Test loss_G: 0.4985275864601135
+
+=============== Epoch: 491
+
+Train loss_D: 242.6477049589157
+Train loss_G: 0.0
+Test loss_G: 0.4985341706446239
+
+=============== Epoch: 492
+
+Train loss_D: 220.37840036302805
+Train loss_G: 0.0
+Test loss_G: 0.49853430475507465
+
+=============== Epoch: 493
+
+Train loss_D: 273.20116924867034
+Train loss_G: 0.0
+Test loss_G: 0.49853430475507465
+
+=============== Epoch: 494
+
+Train loss_D: 143.24248212389648
+Train loss_G: 0.0
+Test loss_G: 0.49853430688381195
+
+=============== Epoch: 495
+
+Train loss_D: 128.2144847791642
+Train loss_G: 0.0
+Test loss_G: 0.49853430688381195
+
+=============== Epoch: 496
+
+Train loss_D: 142.8852523304522
+Train loss_G: 0.0
+Test loss_G: 0.49853430688381195
+
+=============== Epoch: 497
+
+Train loss_D: 201.29471997451037
+Train loss_G: 0.0
+Test loss_G: 0.49853430688381195
+
+=============== Epoch: 498
+
+Train loss_D: 125.70937180612236
+Train loss_G: 0.0
+Test loss_G: 0.49853430688381195
+
+=============== Epoch: 499
+
+Train loss_D: 1226.4510486274958
+Train loss_G: 3.105939258086054
+Test loss_G: 0.4656631754977362
+
+=============== Epoch: 500
+
+Train loss_D: 625.5470594763756
+Train loss_G: 0.0
+Test loss_G: 0.4703764681305204
+
+=============== Epoch: 501
+
+Train loss_D: 291.4923438616097
+Train loss_G: 0.0
+Test loss_G: 0.47053405003888266
+
+=============== Epoch: 502
+
+Train loss_D: 196.96270121540874
+Train loss_G: 0.0
+Test loss_G: 0.47053694086415426
+
+=============== Epoch: 503
+
+Train loss_D: 167.94809967791662
+Train loss_G: 0.0
+Test loss_G: 0.47053699834006174
+
+=============== Epoch: 504
+
+Train loss_D: 121.38771877391264
+Train loss_G: 0.0
+Test loss_G: 0.47053699834006174
+
+=============== Epoch: 505
+
+Train loss_D: 185.4315159334801
+Train loss_G: 0.0
+Test loss_G: 0.470537006855011
+
+=============== Epoch: 506
+
+Train loss_D: 169.3841640916653
+Train loss_G: 0.0
+Test loss_G: 0.470537006855011
+
+=============== Epoch: 507
+
+Train loss_D: 153.2460212772712
+Train loss_G: 0.0
+Test loss_G: 0.470537006855011
+
+=============== Epoch: 508
+
+Train loss_D: 149.25003781169653
+Train loss_G: 0.0
+Test loss_G: 0.470537006855011
+
+=============== Epoch: 509
+
+Train loss_D: 1350.4739538431168
+Train loss_G: 1.7665403626467053
+Test loss_G: 0.4861408131463187
+
+=============== Epoch: 510
+
+Train loss_D: 609.3860229253769
+Train loss_G: 0.0
+Test loss_G: 0.48688688448497225
+
+=============== Epoch: 511
+
+Train loss_D: 385.7255837023258
+Train loss_G: 0.0
+Test loss_G: 0.4869107816900526
+
+=============== Epoch: 512
+
+Train loss_D: 344.37684340775013
+Train loss_G: 0.0
+Test loss_G: 0.4869112159524645
+
+=============== Epoch: 513
+
+Train loss_D: 309.29520447552204
+Train loss_G: 0.0
+Test loss_G: 0.48691122446741375
+
+=============== Epoch: 514
+
+Train loss_D: 240.58981058746576
+Train loss_G: 0.0
+Test loss_G: 0.48691122233867645
+
+=============== Epoch: 515
+
+Train loss_D: 219.01530423760414
+Train loss_G: 0.0
+Test loss_G: 0.48691122233867645
+
+=============== Epoch: 516
+
+Train loss_D: 245.96051239222288
+Train loss_G: 0.0
+Test loss_G: 0.48691122233867645
+
+=============== Epoch: 517
+
+Train loss_D: 257.8803347200155
+Train loss_G: 0.0
+Test loss_G: 0.48691122233867645
+
+=============== Epoch: 518
+
+Train loss_D: 258.95832883939147
+Train loss_G: 0.0
+Test loss_G: 0.48691122233867645
+
+=============== Epoch: 519
+
+Train loss_D: 1159.1977584958076
+Train loss_G: 1.780928909778595
+Test loss_G: 0.48756690110479084
+
+=============== Epoch: 520
+
+Train loss_D: 670.2224050164223
+Train loss_G: 0.0
+Test loss_G: 0.4794822611979076
+
+=============== Epoch: 521
+
+Train loss_D: 346.37106631696224
+Train loss_G: 0.0
+Test loss_G: 0.479352131485939
+
+=============== Epoch: 522
+
+Train loss_D: 250.21768118068576
+Train loss_G: 0.0
+Test loss_G: 0.4793497643300465
+
+=============== Epoch: 523
+
+Train loss_D: 153.12432325817645
+Train loss_G: 0.0
+Test loss_G: 0.47934972388403757
+
+=============== Epoch: 524
+
+Train loss_D: 119.88949757441878
+Train loss_G: 0.0
+Test loss_G: 0.4793497196265629
+
+=============== Epoch: 525
+
+Train loss_D: 150.92128147743642
+Train loss_G: 0.0
+Test loss_G: 0.4793497196265629
+
+=============== Epoch: 526
+
+Train loss_D: 158.7495600078255
+Train loss_G: 0.0
+Test loss_G: 0.4793497196265629
+
+=============== Epoch: 527
+
+Train loss_D: 94.87391808349639
+Train loss_G: 0.0
+Test loss_G: 0.4793497196265629
+
+=============== Epoch: 528
+
+Train loss_D: 289.3087477358058
+Train loss_G: 0.0
+Test loss_G: 0.4793497196265629
+
+=============== Epoch: 529
+
+Train loss_D: 1286.7273595035076
+Train loss_G: 2.619690065321169
+Test loss_G: 0.4768659217017038
+
+=============== Epoch: 530
+
+Train loss_D: 777.3043774366379
+Train loss_G: 0.0
+Test loss_G: 0.4737770472254072
+
+=============== Epoch: 531
+
+Train loss_D: 451.2431376874447
+Train loss_G: 0.0
+Test loss_G: 0.47372434181826456
+
+=============== Epoch: 532
+
+Train loss_D: 347.1778918579221
+Train loss_G: 0.0
+Test loss_G: 0.47372339027268545
+
+=============== Epoch: 533
+
+Train loss_D: 258.442325361073
+Train loss_G: 0.0
+Test loss_G: 0.47372337111404966
+
+=============== Epoch: 534
+
+Train loss_D: 329.4369739629328
+Train loss_G: 0.0
+Test loss_G: 0.47372337111404966
+
+=============== Epoch: 535
+
+Train loss_D: 216.25199355185032
+Train loss_G: 0.0
+Test loss_G: 0.47372337111404966
+
+=============== Epoch: 536
+
+Train loss_D: 176.45206464454532
+Train loss_G: 0.0
+Test loss_G: 0.47372337111404966
+
+=============== Epoch: 537
+
+Train loss_D: 140.4739361219108
+Train loss_G: 0.0
+Test loss_G: 0.47372337111404966
+
+=============== Epoch: 538
+
+Train loss_D: 239.22888859175146
+Train loss_G: 0.0
+Test loss_G: 0.47372337111404966
+
+=============== Epoch: 539
+
+Train loss_D: 1142.6574493646622
+Train loss_G: 1.3651845815934633
+Test loss_G: 0.49252528165067944
+
+=============== Epoch: 540
+
+Train loss_D: 377.1148825585842
+Train loss_G: 0.0
+Test loss_G: 0.4973329369510923
+
+=============== Epoch: 541
+
+Train loss_D: 200.00388026237488
+Train loss_G: 0.0
+Test loss_G: 0.4974332558257239
+
+=============== Epoch: 542
+
+Train loss_D: 200.01723279431462
+Train loss_G: 0.0
+Test loss_G: 0.49743508653981344
+
+=============== Epoch: 543
+
+Train loss_D: 160.27309245243669
+Train loss_G: 0.0
+Test loss_G: 0.4974351248570851
+
+=============== Epoch: 544
+
+Train loss_D: 129.2411469221115
+Train loss_G: 0.0
+Test loss_G: 0.4974351227283478
+
+=============== Epoch: 545
+
+Train loss_D: 163.69741140305996
+Train loss_G: 0.0
+Test loss_G: 0.4974351248570851
+
+=============== Epoch: 546
+
+Train loss_D: 133.91860220208764
+Train loss_G: 0.0
+Test loss_G: 0.4974351248570851
+
+=============== Epoch: 547
+
+Train loss_D: 131.8551713610068
+Train loss_G: 0.0
+Test loss_G: 0.4974351248570851
+
+=============== Epoch: 548
+
+Train loss_D: 74.57206563092768
+Train loss_G: 0.0
+Test loss_G: 0.4974351248570851
+
+=============== Epoch: 549
+
+Train loss_D: 1204.377950310707
+Train loss_G: 1.2327730890951658
+Test loss_G: 0.4665498754807881
+
+=============== Epoch: 550
+
+Train loss_D: 661.776664942503
+Train loss_G: 0.0
+Test loss_G: 0.4659050213439124
+
+=============== Epoch: 551
+
+Train loss_D: 291.9894135519862
+Train loss_G: 0.0
+Test loss_G: 0.46595218990530285
+
+=============== Epoch: 552
+
+Train loss_D: 274.54015151411295
+Train loss_G: 0.0
+Test loss_G: 0.4659530797174999
+
+=============== Epoch: 553
+
+Train loss_D: 182.08789497241378
+Train loss_G: 0.0
+Test loss_G: 0.4659530839749745
+
+=============== Epoch: 554
+
+Train loss_D: 237.6485280636698
+Train loss_G: 0.0
+Test loss_G: 0.46595308610371183
+
+=============== Epoch: 555
+
+Train loss_D: 126.05348230712116
+Train loss_G: 0.0
+Test loss_G: 0.4659530818462372
+
+=============== Epoch: 556
+
+Train loss_D: 250.03491920046508
+Train loss_G: 0.0
+Test loss_G: 0.4659530818462372
+
+=============== Epoch: 557
+
+Train loss_D: 147.51598415337503
+Train loss_G: 0.0
+Test loss_G: 0.4659530818462372
+
+=============== Epoch: 558
+
+Train loss_D: 137.10910286847502
+Train loss_G: 0.0
+Test loss_G: 0.4659530818462372
+
+=============== Epoch: 559
+
+Train loss_D: 1035.2581288218498
+Train loss_G: 1.4986177055459273
+Test loss_G: 0.48045677159513744
+
+=============== Epoch: 560
+
+Train loss_D: 685.5845685005188
+Train loss_G: 0.0
+Test loss_G: 0.4776601195335388
+
+=============== Epoch: 561
+
+Train loss_D: 260.68313923478127
+Train loss_G: 0.0
+Test loss_G: 0.4776240097624915
+
+=============== Epoch: 562
+
+Train loss_D: 200.0056974813342
+Train loss_G: 0.0
+Test loss_G: 0.47762334772518705
+
+=============== Epoch: 563
+
+Train loss_D: 163.54641164839268
+Train loss_G: 0.0
+Test loss_G: 0.47762333921023775
+
+=============== Epoch: 564
+
+Train loss_D: 141.53245181497186
+Train loss_G: 0.0
+Test loss_G: 0.47762333282402586
+
+=============== Epoch: 565
+
+Train loss_D: 120.46064047235996
+Train loss_G: 0.0
+Test loss_G: 0.47762333282402586
+
+=============== Epoch: 566
+
+Train loss_D: 86.7418310707435
+Train loss_G: 0.0
+Test loss_G: 0.47762333282402586
+
+=============== Epoch: 567
+
+Train loss_D: 139.02305708965287
+Train loss_G: 0.0
+Test loss_G: 0.47762333282402586
+
+=============== Epoch: 568
+
+Train loss_D: 135.4391555301845
+Train loss_G: 0.0
+Test loss_G: 0.47762333282402586
+
+=============== Epoch: 569
+
+Train loss_D: 1158.4964651465416
+Train loss_G: 1.3481707478824414
+Test loss_G: 0.4726383217743465
+
+=============== Epoch: 570
+
+Train loss_D: 816.3489200472832
+Train loss_G: 0.0
+Test loss_G: 0.47179943323135376
+
+=============== Epoch: 571
+
+Train loss_D: 430.05624993145466
+Train loss_G: 0.0
+Test loss_G: 0.4717965466635568
+
+=============== Epoch: 572
+
+Train loss_D: 389.0197267383337
+Train loss_G: 0.0
+Test loss_G: 0.4717964913163866
+
+=============== Epoch: 573
+
+Train loss_D: 206.69562869146466
+Train loss_G: 0.0
+Test loss_G: 0.4717964828014374
+
+=============== Epoch: 574
+
+Train loss_D: 222.09816209040582
+Train loss_G: 0.0
+Test loss_G: 0.4717964828014374
+
+=============== Epoch: 575
+
+Train loss_D: 167.38120305351913
+Train loss_G: 0.0
+Test loss_G: 0.4717964828014374
+
+=============== Epoch: 576
+
+Train loss_D: 187.17314978688955
+Train loss_G: 0.0
+Test loss_G: 0.4717964828014374
+
+=============== Epoch: 577
+
+Train loss_D: 142.2764450851828
+Train loss_G: 0.0
+Test loss_G: 0.4717964828014374
+
+=============== Epoch: 578
+
+Train loss_D: 143.6449671741575
+Train loss_G: 0.0
+Test loss_G: 0.4717964828014374
+
+=============== Epoch: 579
+
+Train loss_D: 1100.4909650683403
+Train loss_G: 1.280517589104803
+Test loss_G: 0.4880549077476774
+
+=============== Epoch: 580
+
+Train loss_D: 697.1258298754692
+Train loss_G: 0.0
+Test loss_G: 0.49638466962746214
+
+=============== Epoch: 581
+
+Train loss_D: 303.3360855579376
+Train loss_G: 0.0
+Test loss_G: 0.49658253363200594
+
+=============== Epoch: 582
+
+Train loss_D: 220.53520744666457
+Train loss_G: 0.0
+Test loss_G: 0.496586161000388
+
+=============== Epoch: 583
+
+Train loss_D: 121.44043763261288
+Train loss_G: 0.0
+Test loss_G: 0.4965862397636686
+
+=============== Epoch: 584
+
+Train loss_D: 199.25017167627811
+Train loss_G: 0.0
+Test loss_G: 0.49658623550619396
+
+=============== Epoch: 585
+
+Train loss_D: 210.29577261861414
+Train loss_G: 0.0
+Test loss_G: 0.49658623550619396
+
+=============== Epoch: 586
+
+Train loss_D: 239.97353638708591
+Train loss_G: 0.0
+Test loss_G: 0.49658623550619396
+
+=============== Epoch: 587
+
+Train loss_D: 172.6659973342903
+Train loss_G: 0.0
+Test loss_G: 0.49658623550619396
+
+=============== Epoch: 588
+
+Train loss_D: 165.24670257605612
+Train loss_G: 0.0
+Test loss_G: 0.49658623550619396
+
+=============== Epoch: 589
+
+Train loss_D: 1479.1952762007713
+Train loss_G: 2.0371515084254113
+Test loss_G: 0.47524237632751465
+
+=============== Epoch: 590
+
+Train loss_D: 616.9995370209217
+Train loss_G: 0.0
+Test loss_G: 0.4734901317528316
+
+=============== Epoch: 591
+
+Train loss_D: 211.90135307610035
+Train loss_G: 0.0
+Test loss_G: 0.47346249861376627
+
+=============== Epoch: 592
+
+Train loss_D: 102.28653527516872
+Train loss_G: 0.0
+Test loss_G: 0.4734619749443872
+
+=============== Epoch: 593
+
+Train loss_D: 94.35639585438184
+Train loss_G: 0.0
+Test loss_G: 0.4734619749443872
+
+=============== Epoch: 594
+
+Train loss_D: 49.75292363693006
+Train loss_G: 0.0
+Test loss_G: 0.47346197068691254
+
+=============== Epoch: 595
+
+Train loss_D: 86.90506494999863
+Train loss_G: 0.0
+Test loss_G: 0.47346197068691254
+
+=============== Epoch: 596
+
+Train loss_D: 74.16545144887641
+Train loss_G: 0.0
+Test loss_G: 0.47346197068691254
+
+=============== Epoch: 597
+
+Train loss_D: 52.195331524068024
+Train loss_G: 0.0
+Test loss_G: 0.47346197068691254
+
+=============== Epoch: 598
+
+Train loss_D: 29.145322277385276
+Train loss_G: 0.0
+Test loss_G: 0.47346197068691254
+
+=============== Epoch: 599
+
+Train loss_D: 1962.48561142385
+Train loss_G: 1.5163332945422123
+Test loss_G: 0.4878672105925424
+
+=============== Epoch: 600
+
+Train loss_D: 766.5604353547096
+Train loss_G: 0.0
+Test loss_G: 0.4870896765163967
+
+=============== Epoch: 601
+
+Train loss_D: 458.6263336837292
+Train loss_G: 0.0
+Test loss_G: 0.48707739795957294
+
+=============== Epoch: 602
+
+Train loss_D: 275.7073738873005
+Train loss_G: 0.0
+Test loss_G: 0.48707719147205353
+
+=============== Epoch: 603
+
+Train loss_D: 217.451727963984
+Train loss_G: 0.0
+Test loss_G: 0.4870771957295282
+
+=============== Epoch: 604
+
+Train loss_D: 166.6736995279789
+Train loss_G: 0.0
+Test loss_G: 0.4870771957295282
+
+=============== Epoch: 605
+
+Train loss_D: 160.60413802042603
+Train loss_G: 0.0
+Test loss_G: 0.4870771957295282
+
+=============== Epoch: 606
+
+Train loss_D: 121.70690611936152
+Train loss_G: 0.0
+Test loss_G: 0.4870771957295282
+
+=============== Epoch: 607
+
+Train loss_D: 105.55481042154133
+Train loss_G: 0.0
+Test loss_G: 0.4870771957295282
+
+=============== Epoch: 608
+
+Train loss_D: 89.81211149133742
+Train loss_G: 0.0
+Test loss_G: 0.4870771957295282
+
+=============== Epoch: 609
+
+Train loss_D: 1605.7436559796333
+Train loss_G: 1.8945938191915814
+Test loss_G: 0.45584218416895184
+
+=============== Epoch: 610
+
+Train loss_D: 252.1368503421545
+Train loss_G: 0.0
+Test loss_G: 0.44966630211898256
+
+=============== Epoch: 611
+
+Train loss_D: 139.9880327656865
+Train loss_G: 0.0
+Test loss_G: 0.4495842286518642
+
+=============== Epoch: 612
+
+Train loss_D: 123.27516639977694
+Train loss_G: 0.0
+Test loss_G: 0.44958274492195677
+
+=============== Epoch: 613
+
+Train loss_D: 87.49918347317725
+Train loss_G: 0.0
+Test loss_G: 0.4495827066046851
+
+=============== Epoch: 614
+
+Train loss_D: 91.57490235753357
+Train loss_G: 0.0
+Test loss_G: 0.44958271086215973
+
+=============== Epoch: 615
+
+Train loss_D: 70.41539976000786
+Train loss_G: 0.0
+Test loss_G: 0.44958271086215973
+
+=============== Epoch: 616
+
+Train loss_D: 72.04982649814337
+Train loss_G: 0.0
+Test loss_G: 0.44958271086215973
+
+=============== Epoch: 617
+
+Train loss_D: 85.9607903053984
+Train loss_G: 0.0
+Test loss_G: 0.44958271086215973
+
+=============== Epoch: 618
+
+Train loss_D: 62.68795808078721
+Train loss_G: 0.0
+Test loss_G: 0.44958271086215973
+
+=============== Epoch: 619
+
+Train loss_D: 1132.5912162810564
+Train loss_G: 1.4564330656277507
+Test loss_G: 0.49365493442331043
+
+=============== Epoch: 620
+
+Train loss_D: 719.3457646369934
+Train loss_G: 0.0
+Test loss_G: 0.4855846422059195
+
+=============== Epoch: 621
+
+Train loss_D: 358.418996989727
+Train loss_G: 0.0
+Test loss_G: 0.4854557343891689
+
+=============== Epoch: 622
+
+Train loss_D: 263.65150532126427
+Train loss_G: 0.0
+Test loss_G: 0.4854534034218107
+
+=============== Epoch: 623
+
+Train loss_D: 194.2879268154502
+Train loss_G: 0.0
+Test loss_G: 0.4854533459459032
+
+=============== Epoch: 624
+
+Train loss_D: 245.21033320575953
+Train loss_G: 0.0
+Test loss_G: 0.4854533459459032
+
+=============== Epoch: 625
+
+Train loss_D: 200.36393961310387
+Train loss_G: 0.0
+Test loss_G: 0.4854533459459032
+
+=============== Epoch: 626
+
+Train loss_D: 156.58349347300828
+Train loss_G: 0.0
+Test loss_G: 0.4854533459459032
+
+=============== Epoch: 627
+
+Train loss_D: 231.83979268558323
+Train loss_G: 0.0
+Test loss_G: 0.4854533459459032
+
+=============== Epoch: 628
+
+Train loss_D: 104.72565992735326
+Train loss_G: 0.0
+Test loss_G: 0.4854533459459032
+
+=============== Epoch: 629
+
+Train loss_D: 974.948245048523
+Train loss_G: 1.8155013275773901
+Test loss_G: 0.474470962371145
+
+=============== Epoch: 630
+
+Train loss_D: 662.5671558976173
+Train loss_G: 0.0
+Test loss_G: 0.48251614400318693
+
+=============== Epoch: 631
+
+Train loss_D: 362.68807254731655
+Train loss_G: 0.0
+Test loss_G: 0.4826891784157072
+
+=============== Epoch: 632
+
+Train loss_D: 226.21736256033182
+Train loss_G: 0.0
+Test loss_G: 0.4826923502343042
+
+=============== Epoch: 633
+
+Train loss_D: 233.1289605796337
+Train loss_G: 0.0
+Test loss_G: 0.48269240132399965
+
+=============== Epoch: 634
+
+Train loss_D: 201.58485389128327
+Train loss_G: 0.0
+Test loss_G: 0.48269240132399965
+
+=============== Epoch: 635
+
+Train loss_D: 215.73456826992333
+Train loss_G: 0.0
+Test loss_G: 0.4826924055814743
+
+=============== Epoch: 636
+
+Train loss_D: 162.7009388487786
+Train loss_G: 0.0
+Test loss_G: 0.4826924055814743
+
+=============== Epoch: 637
+
+Train loss_D: 89.40135425142944
+Train loss_G: 0.0
+Test loss_G: 0.4826924055814743
+
+=============== Epoch: 638
+
+Train loss_D: 238.4357775542885
+Train loss_G: 0.0
+Test loss_G: 0.4826924055814743
+
+=============== Epoch: 639
+
+Train loss_D: 1458.9557746052742
+Train loss_G: 1.4179642937685315
+Test loss_G: 0.48779358182634625
+
+=============== Epoch: 640
+
+Train loss_D: 830.5490577220917
+Train loss_G: 0.0
+Test loss_G: 0.47858225234917234
+
+=============== Epoch: 641
+
+Train loss_D: 458.41541907191277
+Train loss_G: 0.0
+Test loss_G: 0.4784488592829023
+
+=============== Epoch: 642
+
+Train loss_D: 281.2850927039981
+Train loss_G: 0.0
+Test loss_G: 0.47844644103731426
+
+=============== Epoch: 643
+
+Train loss_D: 290.8177078701556
+Train loss_G: 0.0
+Test loss_G: 0.4784463942050934
+
+=============== Epoch: 644
+
+Train loss_D: 243.0535654257983
+Train loss_G: 0.0
+Test loss_G: 0.4784463963338307
+
+=============== Epoch: 645
+
+Train loss_D: 235.77542859502137
+Train loss_G: 0.0
+Test loss_G: 0.4784463942050934
+
+=============== Epoch: 646
+
+Train loss_D: 217.64987573493272
+Train loss_G: 0.0
+Test loss_G: 0.4784463942050934
+
+=============== Epoch: 647
+
+Train loss_D: 188.16813051793724
+Train loss_G: 0.0
+Test loss_G: 0.4784463942050934
+
+=============== Epoch: 648
+
+Train loss_D: 179.46683272067457
+Train loss_G: 0.0
+Test loss_G: 0.4784463942050934
+
+=============== Epoch: 649
+
+Train loss_D: 1204.6920255422592
+Train loss_G: 1.0835556058507216
+Test loss_G: 0.4876222759485245
+
+=============== Epoch: 650
+
+Train loss_D: 705.9103826880455
+Train loss_G: 0.0
+Test loss_G: 0.48943035091672626
+
+=============== Epoch: 651
+
+Train loss_D: 322.95988868176937
+Train loss_G: 0.0
+Test loss_G: 0.4894662840025766
+
+=============== Epoch: 652
+
+Train loss_D: 161.99396638944745
+Train loss_G: 0.0
+Test loss_G: 0.48946693326745716
+
+=============== Epoch: 653
+
+Train loss_D: 131.51091133616865
+Train loss_G: 0.0
+Test loss_G: 0.489466946039881
+
+=============== Epoch: 654
+
+Train loss_D: 99.72806794941425
+Train loss_G: 0.0
+Test loss_G: 0.4894669417824064
+
+=============== Epoch: 655
+
+Train loss_D: 75.03586486913264
+Train loss_G: 0.0
+Test loss_G: 0.4894669417824064
+
+=============== Epoch: 656
+
+Train loss_D: 68.24448010604829
+Train loss_G: 0.0
+Test loss_G: 0.4894669417824064
+
+=============== Epoch: 657
+
+Train loss_D: 47.29389946302399
+Train loss_G: 0.0
+Test loss_G: 0.4894669417824064
+
+=============== Epoch: 658
+
+Train loss_D: 53.971632367931306
+Train loss_G: 0.0
+Test loss_G: 0.4894669417824064
+
+=============== Epoch: 659
+
+Train loss_D: 1372.2797857820988
+Train loss_G: 1.7379759408925708
+Test loss_G: 0.48245730996131897
+
+=============== Epoch: 660
+
+Train loss_D: 832.9247145652771
+Train loss_G: 0.0
+Test loss_G: 0.4860185406037739
+
+=============== Epoch: 661
+
+Train loss_D: 323.8133145570755
+Train loss_G: 0.0
+Test loss_G: 0.48608755001
+
+=============== Epoch: 662
+
+Train loss_D: 170.40523812174797
+Train loss_G: 0.0
+Test loss_G: 0.4860887974500656
+
+=============== Epoch: 663
+
+Train loss_D: 200.4693127963692
+Train loss_G: 0.0
+Test loss_G: 0.486088827252388
+
+=============== Epoch: 664
+
+Train loss_D: 76.8536740760319
+Train loss_G: 0.0
+Test loss_G: 0.4860888251236507
+
+=============== Epoch: 665
+
+Train loss_D: 75.66449290607125
+Train loss_G: 0.0
+Test loss_G: 0.4860888251236507
+
+=============== Epoch: 666
+
+Train loss_D: 140.2230085148476
+Train loss_G: 0.0
+Test loss_G: 0.4860888251236507
+
+=============== Epoch: 667
+
+Train loss_D: 42.43241753417533
+Train loss_G: 0.0
+Test loss_G: 0.4860888251236507
+
+=============== Epoch: 668
+
+Train loss_D: 92.70766678941436
+Train loss_G: 0.0
+Test loss_G: 0.4860888251236507
+
+=============== Epoch: 669
+
+Train loss_D: 1094.5276676937938
+Train loss_G: 1.6683269190160852
+Test loss_G: 0.47729947524411337
+
+=============== Epoch: 670
+
+Train loss_D: 753.9595941901207
+Train loss_G: 0.0
+Test loss_G: 0.47504881237234386
+
+=============== Epoch: 671
+
+Train loss_D: 302.8798877224326
+Train loss_G: 0.0
+Test loss_G: 0.47501722616808756
+
+=============== Epoch: 672
+
+Train loss_D: 151.8009962271899
+Train loss_G: 0.0
+Test loss_G: 0.47501665566648754
+
+=============== Epoch: 673
+
+Train loss_D: 304.06281834468246
+Train loss_G: 0.0
+Test loss_G: 0.4750166428940637
+
+=============== Epoch: 674
+
+Train loss_D: 128.3592603430152
+Train loss_G: 0.0
+Test loss_G: 0.4750166428940637
+
+=============== Epoch: 675
+
+Train loss_D: 146.1532674646005
+Train loss_G: 0.0
+Test loss_G: 0.4750166428940637
+
+=============== Epoch: 676
+
+Train loss_D: 99.06669986294582
+Train loss_G: 0.0
+Test loss_G: 0.4750166428940637
+
+=============== Epoch: 677
+
+Train loss_D: 131.88062385749072
+Train loss_G: 0.0
+Test loss_G: 0.4750166428940637
+
+=============== Epoch: 678
+
+Train loss_D: 84.4246719526127
+Train loss_G: 0.0
+Test loss_G: 0.4750166428940637
+
+=============== Epoch: 679
+
+Train loss_D: 1481.7192431390285
+Train loss_G: 1.473114666185881
+Test loss_G: 0.48434707309518543
+
+=============== Epoch: 680
+
+Train loss_D: 740.8178483247757
+Train loss_G: 0.0
+Test loss_G: 0.4864695795944759
+
+=============== Epoch: 681
+
+Train loss_D: 453.16115206480026
+Train loss_G: 0.0
+Test loss_G: 0.4865159477506365
+
+=============== Epoch: 682
+
+Train loss_D: 307.8523538559675
+Train loss_G: 0.0
+Test loss_G: 0.4865167907306126
+
+=============== Epoch: 683
+
+Train loss_D: 247.5318993665278
+Train loss_G: 0.0
+Test loss_G: 0.4865168056317738
+
+=============== Epoch: 684
+
+Train loss_D: 157.64635468274355
+Train loss_G: 0.0
+Test loss_G: 0.4865168056317738
+
+=============== Epoch: 685
+
+Train loss_D: 168.9939881004393
+Train loss_G: 0.0
+Test loss_G: 0.4865168056317738
+
+=============== Epoch: 686
+
+Train loss_D: 140.05042198579758
+Train loss_G: 0.0
+Test loss_G: 0.4865168056317738
+
+=============== Epoch: 687
+
+Train loss_D: 171.28895308542997
+Train loss_G: 0.0
+Test loss_G: 0.4865168056317738
+
+=============== Epoch: 688
+
+Train loss_D: 44.64982128981501
+Train loss_G: 0.0
+Test loss_G: 0.4865168056317738
+
+=============== Epoch: 689
+
+Train loss_D: 1432.0473237633705
+Train loss_G: 1.4263337176097066
+Test loss_G: 0.4831703858716147
+
+=============== Epoch: 690
+
+Train loss_D: 657.1108218431473
+Train loss_G: 0.0
+Test loss_G: 0.47554596194199156
+
+=============== Epoch: 691
+
+Train loss_D: 301.2988977432251
+Train loss_G: 0.0
+Test loss_G: 0.4754183760711125
+
+=============== Epoch: 692
+
+Train loss_D: 231.01815763115883
+Train loss_G: 0.0
+Test loss_G: 0.47541605148996624
+
+=============== Epoch: 693
+
+Train loss_D: 268.2271659746766
+Train loss_G: 0.0
+Test loss_G: 0.47541600678648266
+
+=============== Epoch: 694
+
+Train loss_D: 124.80730320699513
+Train loss_G: 0.0
+Test loss_G: 0.47541600252900806
+
+=============== Epoch: 695
+
+Train loss_D: 109.68180196825415
+Train loss_G: 0.0
+Test loss_G: 0.47541600678648266
+
+=============== Epoch: 696
+
+Train loss_D: 104.9665810894221
+Train loss_G: 0.0
+Test loss_G: 0.47541600678648266
+
+=============== Epoch: 697
+
+Train loss_D: 141.99708014074713
+Train loss_G: 0.0
+Test loss_G: 0.47541600678648266
+
+=============== Epoch: 698
+
+Train loss_D: 54.76243948191404
+Train loss_G: 0.0
+Test loss_G: 0.47541600678648266
+
+=============== Epoch: 699
+
+Train loss_D: 1363.5220565199852
+Train loss_G: 2.078549574864538
+Test loss_G: 0.48509309547288076
+
+=============== Epoch: 700
+
+Train loss_D: 413.3245344310999
+Train loss_G: 0.0
+Test loss_G: 0.48479509353637695
+
+=============== Epoch: 701
+
+Train loss_D: 76.79814345249906
+Train loss_G: 0.0
+Test loss_G: 0.4848362462861197
+
+=============== Epoch: 702
+
+Train loss_D: 92.92224902193993
+Train loss_G: 0.0
+Test loss_G: 0.4848370296614511
+
+=============== Epoch: 703
+
+Train loss_D: 58.22111897211289
+Train loss_G: 0.0
+Test loss_G: 0.48483704243387493
+
+=============== Epoch: 704
+
+Train loss_D: 52.5011913960916
+Train loss_G: 0.0
+Test loss_G: 0.48483704243387493
+
+=============== Epoch: 705
+
+Train loss_D: 47.5649249884882
+Train loss_G: 0.0
+Test loss_G: 0.48483704243387493
+
+=============== Epoch: 706
+
+Train loss_D: 41.46140043478226
+Train loss_G: 0.0
+Test loss_G: 0.48483704243387493
+
+=============== Epoch: 707
+
+Train loss_D: 41.71761583298212
+Train loss_G: 0.0
+Test loss_G: 0.48483704243387493
+
+=============== Epoch: 708
+
+Train loss_D: 32.86576724407496
+Train loss_G: 0.0
+Test loss_G: 0.48483704243387493
+
+=============== Epoch: 709
+
+Train loss_D: 1096.2391158204991
+Train loss_G: 2.490351033838172
+Test loss_G: 0.478980296424457
+
+=============== Epoch: 710
+
+Train loss_D: 727.3851220607758
+Train loss_G: 0.0
+Test loss_G: 0.47964340661253246
+
+=============== Epoch: 711
+
+Train loss_D: 482.2047056555748
+Train loss_G: 0.0
+Test loss_G: 0.47966225871018003
+
+=============== Epoch: 712
+
+Train loss_D: 320.52959494292736
+Train loss_G: 0.0
+Test loss_G: 0.47966261208057404
+
+=============== Epoch: 713
+
+Train loss_D: 272.66812316700816
+Train loss_G: 0.0
+Test loss_G: 0.47966261420931133
+
+=============== Epoch: 714
+
+Train loss_D: 197.03022849932313
+Train loss_G: 0.0
+Test loss_G: 0.4796626205955233
+
+=============== Epoch: 715
+
+Train loss_D: 205.56901193223894
+Train loss_G: 0.0
+Test loss_G: 0.4796626205955233
+
+=============== Epoch: 716
+
+Train loss_D: 149.88527101557702
+Train loss_G: 0.0
+Test loss_G: 0.4796626205955233
+
+=============== Epoch: 717
+
+Train loss_D: 138.75263543147594
+Train loss_G: 0.0
+Test loss_G: 0.4796626205955233
+
+=============== Epoch: 718
+
+Train loss_D: 149.3890491873026
+Train loss_G: 0.0
+Test loss_G: 0.4796626205955233
+
+=============== Epoch: 719
+
+Train loss_D: 1035.4242195487022
+Train loss_G: 1.4421253455312628
+Test loss_G: 0.4789303498608725
+
+=============== Epoch: 720
+
+Train loss_D: 423.3916304707527
+Train loss_G: 0.0
+Test loss_G: 0.4798217586108616
+
+=============== Epoch: 721
+
+Train loss_D: 220.24538420327008
+Train loss_G: 0.0
+Test loss_G: 0.47984945135457174
+
+=============== Epoch: 722
+
+Train loss_D: 137.01459798030555
+Train loss_G: 0.0
+Test loss_G: 0.47984997076647623
+
+=============== Epoch: 723
+
+Train loss_D: 130.23409764142707
+Train loss_G: 0.0
+Test loss_G: 0.47984997289521353
+
+=============== Epoch: 724
+
+Train loss_D: 187.99225779110566
+Train loss_G: 0.0
+Test loss_G: 0.47984997076647623
+
+=============== Epoch: 725
+
+Train loss_D: 104.48691609781235
+Train loss_G: 0.0
+Test loss_G: 0.47984997076647623
+
+=============== Epoch: 726
+
+Train loss_D: 106.26025199564174
+Train loss_G: 0.0
+Test loss_G: 0.47984997076647623
+
+=============== Epoch: 727
+
+Train loss_D: 63.666523651219904
+Train loss_G: 0.0
+Test loss_G: 0.47984997076647623
+
+=============== Epoch: 728
+
+Train loss_D: 101.94258072576486
+Train loss_G: 0.0
+Test loss_G: 0.47984997076647623
+
+=============== Epoch: 729
+
+Train loss_D: 1017.3472501337528
+Train loss_G: 2.5328203392656228
+Test loss_G: 0.4924249223300389
+
+=============== Epoch: 730
+
+Train loss_D: 445.8240670263767
+Train loss_G: 0.0
+Test loss_G: 0.4858325059924807
+
+=============== Epoch: 731
+
+Train loss_D: 185.41636542603374
+Train loss_G: 0.0
+Test loss_G: 0.4857257306575775
+
+=============== Epoch: 732
+
+Train loss_D: 139.05070518888533
+Train loss_G: 0.0
+Test loss_G: 0.48572378286293577
+
+=============== Epoch: 733
+
+Train loss_D: 147.51740747876465
+Train loss_G: 0.0
+Test loss_G: 0.4857237551893507
+
+=============== Epoch: 734
+
+Train loss_D: 100.37641683593392
+Train loss_G: 0.0
+Test loss_G: 0.48572375093187603
+
+=============== Epoch: 735
+
+Train loss_D: 136.27830922231078
+Train loss_G: 0.0
+Test loss_G: 0.48572375093187603
+
+=============== Epoch: 736
+
+Train loss_D: 70.21899430453777
+Train loss_G: 0.0
+Test loss_G: 0.48572375093187603
+
+=============== Epoch: 737
+
+Train loss_D: 137.7243118043989
+Train loss_G: 0.0
+Test loss_G: 0.48572375093187603
+
+=============== Epoch: 738
+
+Train loss_D: 55.27354615624063
+Train loss_G: 0.0
+Test loss_G: 0.48572375093187603
+
+=============== Epoch: 739
+
+Train loss_D: 1168.573355793953
+Train loss_G: 1.906646501076849
+Test loss_G: 0.48508924671581816
+
+=============== Epoch: 740
+
+Train loss_D: 495.9569263905287
+Train loss_G: 0.0
+Test loss_G: 0.4871428332158497
+
+=============== Epoch: 741
+
+Train loss_D: 189.94795055687428
+Train loss_G: 0.0
+Test loss_G: 0.4871858400957925
+
+=============== Epoch: 742
+
+Train loss_D: 176.09275953099132
+Train loss_G: 0.0
+Test loss_G: 0.4871866319860731
+
+=============== Epoch: 743
+
+Train loss_D: 115.49478253163397
+Train loss_G: 0.0
+Test loss_G: 0.48718663837228504
+
+=============== Epoch: 744
+
+Train loss_D: 99.15034195035696
+Train loss_G: 0.0
+Test loss_G: 0.48718664050102234
+
+=============== Epoch: 745
+
+Train loss_D: 91.18027256429195
+Train loss_G: 0.0
+Test loss_G: 0.48718664050102234
+
+=============== Epoch: 746
+
+Train loss_D: 74.70965953823179
+Train loss_G: 0.0
+Test loss_G: 0.48718664050102234
+
+=============== Epoch: 747
+
+Train loss_D: 67.7998888506554
+Train loss_G: 0.0
+Test loss_G: 0.48718664050102234
+
+=============== Epoch: 748
+
+Train loss_D: 77.70337781193666
+Train loss_G: 0.0
+Test loss_G: 0.48718664050102234
+
+=============== Epoch: 749
+
+Train loss_D: 1034.5535002946854
+Train loss_G: 2.0791913945423928
+Test loss_G: 0.49747224364961895
+
+=============== Epoch: 750
+
+Train loss_D: 434.09250912070274
+Train loss_G: 0.0
+Test loss_G: 0.4922262600490025
+
+=============== Epoch: 751
+
+Train loss_D: 120.73843154124916
+Train loss_G: 0.0
+Test loss_G: 0.49214531907013487
+
+=============== Epoch: 752
+
+Train loss_D: 151.15540049038827
+Train loss_G: 0.0
+Test loss_G: 0.4921438544988632
+
+=============== Epoch: 753
+
+Train loss_D: 98.97948919888586
+Train loss_G: 0.0
+Test loss_G: 0.4921438204390662
+
+=============== Epoch: 754
+
+Train loss_D: 68.86673433543183
+Train loss_G: 0.0
+Test loss_G: 0.4921438204390662
+
+=============== Epoch: 755
+
+Train loss_D: 55.71213773661293
+Train loss_G: 0.0
+Test loss_G: 0.4921438204390662
+
+=============== Epoch: 756
+
+Train loss_D: 81.22589115146548
+Train loss_G: 0.0
+Test loss_G: 0.4921438204390662
+
+=============== Epoch: 757
+
+Train loss_D: 69.13646800699644
+Train loss_G: 0.0
+Test loss_G: 0.4921438204390662
+
+=============== Epoch: 758
+
+Train loss_D: 47.24160820932593
+Train loss_G: 0.0
+Test loss_G: 0.4921438204390662
+
+=============== Epoch: 759
+
+Train loss_D: 933.0736545026302
+Train loss_G: 2.3393069537062394
+Test loss_G: 0.48610614453043255
+
+=============== Epoch: 760
+
+Train loss_D: 621.5812475681305
+Train loss_G: 0.0
+Test loss_G: 0.4869069457054138
+
+=============== Epoch: 761
+
+Train loss_D: 340.74304307997227
+Train loss_G: 0.0
+Test loss_G: 0.48693237773009707
+
+=============== Epoch: 762
+
+Train loss_D: 242.83095397986472
+Train loss_G: 0.0
+Test loss_G: 0.48693284179483143
+
+=============== Epoch: 763
+
+Train loss_D: 194.04497188143432
+Train loss_G: 0.0
+Test loss_G: 0.48693285243851797
+
+=============== Epoch: 764
+
+Train loss_D: 156.19063405087218
+Train loss_G: 0.0
+Test loss_G: 0.48693285456725527
+
+=============== Epoch: 765
+
+Train loss_D: 170.3310634237714
+Train loss_G: 0.0
+Test loss_G: 0.48693285456725527
+
+=============== Epoch: 766
+
+Train loss_D: 192.4178458438255
+Train loss_G: 0.0
+Test loss_G: 0.48693285456725527
+
+=============== Epoch: 767
+
+Train loss_D: 153.87909848010167
+Train loss_G: 0.0
+Test loss_G: 0.48693285456725527
+
+=============== Epoch: 768
+
+Train loss_D: 143.83709062961861
+Train loss_G: 0.0
+Test loss_G: 0.48693285456725527
+
+=============== Epoch: 769
+
+Train loss_D: 957.2399973869324
+Train loss_G: 1.9132894450112392
+Test loss_G: 0.4917797361101423
+
+=============== Epoch: 770
+
+Train loss_D: 365.0627168044448
+Train loss_G: 0.0
+Test loss_G: 0.4931187757423946
+
+=============== Epoch: 771
+
+Train loss_D: 172.79107003565878
+Train loss_G: 0.0
+Test loss_G: 0.49315291004521505
+
+=============== Epoch: 772
+
+Train loss_D: 167.4786692922935
+Train loss_G: 0.0
+Test loss_G: 0.4931535316365106
+
+=============== Epoch: 773
+
+Train loss_D: 140.38592675281689
+Train loss_G: 0.0
+Test loss_G: 0.49315354228019714
+
+=============== Epoch: 774
+
+Train loss_D: 112.19338284712285
+Train loss_G: 0.0
+Test loss_G: 0.4931535380227225
+
+=============== Epoch: 775
+
+Train loss_D: 120.78692370606586
+Train loss_G: 0.0
+Test loss_G: 0.4931535380227225
+
+=============== Epoch: 776
+
+Train loss_D: 98.21768989111297
+Train loss_G: 0.0
+Test loss_G: 0.4931535380227225
+
+=============== Epoch: 777
+
+Train loss_D: 101.1497772517614
+Train loss_G: 0.0
+Test loss_G: 0.4931535380227225
+
+=============== Epoch: 778
+
+Train loss_D: 94.34293361264281
+Train loss_G: 0.0
+Test loss_G: 0.4931535380227225
+
+=============== Epoch: 779
+
+Train loss_D: 910.5035034120083
+Train loss_G: 1.9670620450848026
+Test loss_G: 0.48207402655056547
+
+=============== Epoch: 780
+
+Train loss_D: 386.0393347591162
+Train loss_G: 0.0
+Test loss_G: 0.483852282166481
+
+=============== Epoch: 781
+
+Train loss_D: 191.34120243787766
+Train loss_G: 0.0
+Test loss_G: 0.4838933582816805
+
+=============== Epoch: 782
+
+Train loss_D: 163.34800690878183
+Train loss_G: 0.0
+Test loss_G: 0.4838941012110029
+
+=============== Epoch: 783
+
+Train loss_D: 122.17653592466377
+Train loss_G: 0.0
+Test loss_G: 0.4838941310133253
+
+=============== Epoch: 784
+
+Train loss_D: 90.48303597152699
+Train loss_G: 0.0
+Test loss_G: 0.48389412675585064
+
+=============== Epoch: 785
+
+Train loss_D: 83.34865001728758
+Train loss_G: 0.0
+Test loss_G: 0.48389412462711334
+
+=============== Epoch: 786
+
+Train loss_D: 69.05917433020659
+Train loss_G: 0.0
+Test loss_G: 0.48389412462711334
+
+=============== Epoch: 787
+
+Train loss_D: 59.0130151361227
+Train loss_G: 0.0
+Test loss_G: 0.48389412462711334
+
+=============== Epoch: 788
+
+Train loss_D: 51.79662645581993
+Train loss_G: 0.0
+Test loss_G: 0.48389412462711334
+
+=============== Epoch: 789
+
+Train loss_D: 928.9549538493156
+Train loss_G: 1.8065657349009263
+Test loss_G: 0.49352574561323437
+
+=============== Epoch: 790
+
+Train loss_D: 564.0416939258575
+Train loss_G: 0.0
+Test loss_G: 0.49203960810388836
+
+=============== Epoch: 791
+
+Train loss_D: 295.4470583051443
+Train loss_G: 0.0
+Test loss_G: 0.49201767785208567
+
+=============== Epoch: 792
+
+Train loss_D: 221.16995231807232
+Train loss_G: 0.0
+Test loss_G: 0.4920172925506319
+
+=============== Epoch: 793
+
+Train loss_D: 158.34359885565937
+Train loss_G: 0.0
+Test loss_G: 0.49201727552073343
+
+=============== Epoch: 794
+
+Train loss_D: 156.57924529723823
+Train loss_G: 0.0
+Test loss_G: 0.4920172819069454
+
+=============== Epoch: 795
+
+Train loss_D: 143.47640994098037
+Train loss_G: 0.0
+Test loss_G: 0.4920172819069454
+
+=============== Epoch: 796
+
+Train loss_D: 154.70530893746763
+Train loss_G: 0.0
+Test loss_G: 0.4920172819069454
+
+=============== Epoch: 797
+
+Train loss_D: 133.33673695847392
+Train loss_G: 0.0
+Test loss_G: 0.4920172819069454
+
+=============== Epoch: 798
+
+Train loss_D: 144.04850257188082
+Train loss_G: 0.0
+Test loss_G: 0.4920172819069454
+
+=============== Epoch: 799
+
+Train loss_D: 832.2685803174973
+Train loss_G: 1.7878035918662423
+Test loss_G: 0.48258393364293234
+
+=============== Epoch: 800
+
+Train loss_D: 335.73767887055874
+Train loss_G: 0.0
+Test loss_G: 0.4792678930929729
+
+=============== Epoch: 801
+
+Train loss_D: 165.45447607245296
+Train loss_G: 0.0
+Test loss_G: 0.4792167012180601
+
+=============== Epoch: 802
+
+Train loss_D: 130.6542749539949
+Train loss_G: 0.0
+Test loss_G: 0.4792157667023795
+
+=============== Epoch: 803
+
+Train loss_D: 144.73924623569474
+Train loss_G: 0.0
+Test loss_G: 0.47921575818743023
+
+=============== Epoch: 804
+
+Train loss_D: 103.59054987784475
+Train loss_G: 0.0
+Test loss_G: 0.47921575605869293
+
+=============== Epoch: 805
+
+Train loss_D: 84.67165509425104
+Train loss_G: 0.0
+Test loss_G: 0.47921575605869293
+
+=============== Epoch: 806
+
+Train loss_D: 91.74766416568309
+Train loss_G: 0.0
+Test loss_G: 0.47921575605869293
+
+=============== Epoch: 807
+
+Train loss_D: 84.3211467557121
+Train loss_G: 0.0
+Test loss_G: 0.47921575605869293
+
+=============== Epoch: 808
+
+Train loss_D: 183.73800899309572
+Train loss_G: 0.0
+Test loss_G: 0.47921575605869293
+
+=============== Epoch: 809
+
+Train loss_D: 889.9823786020279
+Train loss_G: 2.0064457623582137
+Test loss_G: 0.4886969051190785
+
+=============== Epoch: 810
+
+Train loss_D: 433.4518605172634
+Train loss_G: 0.0
+Test loss_G: 0.48824307535375866
+
+=============== Epoch: 811
+
+Train loss_D: 131.04979011416435
+Train loss_G: 0.0
+Test loss_G: 0.4882385368858065
+
+=============== Epoch: 812
+
+Train loss_D: 110.75429646810517
+Train loss_G: 0.0
+Test loss_G: 0.4882384581225259
+
+=============== Epoch: 813
+
+Train loss_D: 96.77387470123358
+Train loss_G: 0.0
+Test loss_G: 0.48823845173631397
+
+=============== Epoch: 814
+
+Train loss_D: 70.5257073272951
+Train loss_G: 0.0
+Test loss_G: 0.48823845173631397
+
+=============== Epoch: 815
+
+Train loss_D: 41.72403073194437
+Train loss_G: 0.0
+Test loss_G: 0.48823845173631397
+
+=============== Epoch: 816
+
+Train loss_D: 69.79911085497588
+Train loss_G: 0.0
+Test loss_G: 0.48823845173631397
+
+=============== Epoch: 817
+
+Train loss_D: 48.77125754370354
+Train loss_G: 0.0
+Test loss_G: 0.48823845173631397
+
+=============== Epoch: 818
+
+Train loss_D: 73.14463950577192
+Train loss_G: 0.0
+Test loss_G: 0.48823845173631397
+
+=============== Epoch: 819
+
+Train loss_D: 809.7936952710152
+Train loss_G: 2.1188425217804157
+Test loss_G: 0.506931117602757
+
+=============== Epoch: 820
+
+Train loss_D: 307.7783573567867
+Train loss_G: 0.0
+Test loss_G: 0.5019136305366244
+
+=============== Epoch: 821
+
+Train loss_D: 193.73352632299066
+Train loss_G: 0.0
+Test loss_G: 0.5018442038978849
+
+=============== Epoch: 822
+
+Train loss_D: 35.24798027519137
+Train loss_G: 0.0
+Test loss_G: 0.5018429436853954
+
+=============== Epoch: 823
+
+Train loss_D: 137.55052823526785
+Train loss_G: 0.0
+Test loss_G: 0.5018429160118103
+
+=============== Epoch: 824
+
+Train loss_D: 90.25386430649087
+Train loss_G: 0.0
+Test loss_G: 0.5018429160118103
+
+=============== Epoch: 825
+
+Train loss_D: 132.00721511943266
+Train loss_G: 0.0
+Test loss_G: 0.5018429202692849
+
+=============== Epoch: 826
+
+Train loss_D: 115.79700005380437
+Train loss_G: 0.0
+Test loss_G: 0.5018429202692849
+
+=============== Epoch: 827
+
+Train loss_D: 45.80045479815453
+Train loss_G: 0.0
+Test loss_G: 0.5018429202692849
+
+=============== Epoch: 828
+
+Train loss_D: 84.76287706708536
+Train loss_G: 0.0
+Test loss_G: 0.5018429202692849
+
+=============== Epoch: 829
+
+Train loss_D: 1088.0453247651458
+Train loss_G: 2.140392622665355
+Test loss_G: 0.47246490844658445
+
+=============== Epoch: 830
+
+Train loss_D: 498.1528015732765
+Train loss_G: 0.0
+Test loss_G: 0.47113477119377684
+
+=============== Epoch: 831
+
+Train loss_D: 201.02646385505795
+Train loss_G: 0.0
+Test loss_G: 0.47112358042172026
+
+=============== Epoch: 832
+
+Train loss_D: 183.6750629581511
+Train loss_G: 0.0
+Test loss_G: 0.47112337393420084
+
+=============== Epoch: 833
+
+Train loss_D: 60.21752732153982
+Train loss_G: 0.0
+Test loss_G: 0.47112337393420084
+
+=============== Epoch: 834
+
+Train loss_D: 140.62171389441937
+Train loss_G: 0.0
+Test loss_G: 0.47112337180546354
+
+=============== Epoch: 835
+
+Train loss_D: 31.66328663751483
+Train loss_G: 0.0
+Test loss_G: 0.47112337180546354
+
+=============== Epoch: 836
+
+Train loss_D: 184.86058145319112
+Train loss_G: 0.0
+Test loss_G: 0.47112337180546354
+
+=============== Epoch: 837
+
+Train loss_D: 17.477997281588614
+Train loss_G: 0.0
+Test loss_G: 0.47112337180546354
+
+=============== Epoch: 838
+
+Train loss_D: 35.20291449781507
+Train loss_G: 0.0
+Test loss_G: 0.47112337180546354
+
+=============== Epoch: 839
+
+Train loss_D: 938.7477639596909
+Train loss_G: 2.1168395022028372
+Test loss_G: 0.4738737940788269
+
+=============== Epoch: 840
+
+Train loss_D: 503.68561850488186
+Train loss_G: 0.0
+Test loss_G: 0.47662921462740215
+
+=============== Epoch: 841
+
+Train loss_D: 196.35692105814815
+Train loss_G: 0.0
+Test loss_G: 0.4766876037631716
+
+=============== Epoch: 842
+
+Train loss_D: 146.35933443391696
+Train loss_G: 0.0
+Test loss_G: 0.47668866387435366
+
+=============== Epoch: 843
+
+Train loss_D: 92.44650259893388
+Train loss_G: 0.0
+Test loss_G: 0.4766886830329895
+
+=============== Epoch: 844
+
+Train loss_D: 80.30596483394038
+Train loss_G: 0.0
+Test loss_G: 0.47668868941920145
+
+=============== Epoch: 845
+
+Train loss_D: 86.38540406990796
+Train loss_G: 0.0
+Test loss_G: 0.47668868941920145
+
+=============== Epoch: 846
+
+Train loss_D: 134.73167301539797
+Train loss_G: 0.0
+Test loss_G: 0.47668868941920145
+
+=============== Epoch: 847
+
+Train loss_D: 22.669977054465562
+Train loss_G: 0.0
+Test loss_G: 0.47668868941920145
+
+=============== Epoch: 848
+
+Train loss_D: 189.01146502849588
+Train loss_G: 0.0
+Test loss_G: 0.47668868941920145
+
+=============== Epoch: 849
+
+Train loss_D: 914.6212677806616
+Train loss_G: 2.0453762992432245
+Test loss_G: 0.48161752309118
+
+=============== Epoch: 850
+
+Train loss_D: 483.1419110298157
+Train loss_G: 0.0
+Test loss_G: 0.4804722879614149
+
+=============== Epoch: 851
+
+Train loss_D: 218.23735297098756
+Train loss_G: 0.0
+Test loss_G: 0.48045831492968966
+
+=============== Epoch: 852
+
+Train loss_D: 134.27787960506976
+Train loss_G: 0.0
+Test loss_G: 0.480458065867424
+
+=============== Epoch: 853
+
+Train loss_D: 96.08197345305234
+Train loss_G: 0.0
+Test loss_G: 0.48045805522373747
+
+=============== Epoch: 854
+
+Train loss_D: 72.16920452658087
+Train loss_G: 0.0
+Test loss_G: 0.48045805522373747
+
+=============== Epoch: 855
+
+Train loss_D: 105.22746722749434
+Train loss_G: 0.0
+Test loss_G: 0.48045805522373747
+
+=============== Epoch: 856
+
+Train loss_D: 16.109585751779377
+Train loss_G: 0.0
+Test loss_G: 0.48045805522373747
+
+=============== Epoch: 857
+
+Train loss_D: 85.8505104132928
+Train loss_G: 0.0
+Test loss_G: 0.48045805522373747
+
+=============== Epoch: 858
+
+Train loss_D: 13.261175191961229
+Train loss_G: 0.0
+Test loss_G: 0.48045805522373747
+
+=============== Epoch: 859
+
+Train loss_D: 907.3169787526131
+Train loss_G: 2.880212226980611
+Test loss_G: 0.473498346550124
+
+=============== Epoch: 860
+
+Train loss_D: 441.8894560188055
+Train loss_G: 0.0
+Test loss_G: 0.48073016107082367
+
+=============== Epoch: 861
+
+Train loss_D: 283.97183062136173
+Train loss_G: 0.0
+Test loss_G: 0.480887342776571
+
+=============== Epoch: 862
+
+Train loss_D: 175.87641095742583
+Train loss_G: 0.0
+Test loss_G: 0.48089022082941874
+
+=============== Epoch: 863
+
+Train loss_D: 132.07431265944615
+Train loss_G: 0.0
+Test loss_G: 0.4808902825628008
+
+=============== Epoch: 864
+
+Train loss_D: 107.98025900847279
+Train loss_G: 0.0
+Test loss_G: 0.48089028682027546
+
+=============== Epoch: 865
+
+Train loss_D: 95.63408518815413
+Train loss_G: 0.0
+Test loss_G: 0.48089028682027546
+
+=============== Epoch: 866
+
+Train loss_D: 103.05746023519896
+Train loss_G: 0.0
+Test loss_G: 0.48089028682027546
+
+=============== Epoch: 867
+
+Train loss_D: 59.31410587229766
+Train loss_G: 0.0
+Test loss_G: 0.48089028682027546
+
+=============== Epoch: 868
+
+Train loss_D: 90.05225531302858
+Train loss_G: 0.0
+Test loss_G: 0.48089028682027546
+
+=============== Epoch: 869
+
+Train loss_D: 681.6628924906254
+Train loss_G: 2.214741333534843
+Test loss_G: 0.48668076949460165
+
+=============== Epoch: 870
+
+Train loss_D: 359.6752571463585
+Train loss_G: 0.0
+Test loss_G: 0.4899571644408362
+
+=============== Epoch: 871
+
+Train loss_D: 167.99507124722004
+Train loss_G: 0.0
+Test loss_G: 0.49002515205315184
+
+=============== Epoch: 872
+
+Train loss_D: 136.52315962314606
+Train loss_G: 0.0
+Test loss_G: 0.4900263931070055
+
+=============== Epoch: 873
+
+Train loss_D: 104.00821711868048
+Train loss_G: 0.0
+Test loss_G: 0.4900264037506921
+
+=============== Epoch: 874
+
+Train loss_D: 95.02026097569615
+Train loss_G: 0.0
+Test loss_G: 0.4900264058794294
+
+=============== Epoch: 875
+
+Train loss_D: 137.31925779301673
+Train loss_G: 0.0
+Test loss_G: 0.4900264058794294
+
+=============== Epoch: 876
+
+Train loss_D: 92.82269599661231
+Train loss_G: 0.0
+Test loss_G: 0.4900264058794294
+
+=============== Epoch: 877
+
+Train loss_D: 84.26392186339945
+Train loss_G: 0.0
+Test loss_G: 0.4900264058794294
+
+=============== Epoch: 878
+
+Train loss_D: 112.91446811845526
+Train loss_G: 0.0
+Test loss_G: 0.4900264058794294
+
+=============== Epoch: 879
+
+Train loss_D: 666.6448751986027
+Train loss_G: 2.1735836251785883
+Test loss_G: 0.4803810183491026
+
+=============== Epoch: 880
+
+Train loss_D: 347.68097541481256
+Train loss_G: 0.0
+Test loss_G: 0.48608043576989857
+
+=============== Epoch: 881
+
+Train loss_D: 159.03945799544454
+Train loss_G: 0.0
+Test loss_G: 0.48619467658655985
+
+=============== Epoch: 882
+
+Train loss_D: 167.72605951037258
+Train loss_G: 0.0
+Test loss_G: 0.4861967521054404
+
+=============== Epoch: 883
+
+Train loss_D: 115.01975034596398
+Train loss_G: 0.0
+Test loss_G: 0.4861967989376613
+
+=============== Epoch: 884
+
+Train loss_D: 35.00529060000554
+Train loss_G: 0.0
+Test loss_G: 0.4861968031951359
+
+=============== Epoch: 885
+
+Train loss_D: 156.46763948258013
+Train loss_G: 0.0
+Test loss_G: 0.48619679680892397
+
+=============== Epoch: 886
+
+Train loss_D: 110.35560688143596
+Train loss_G: 0.0
+Test loss_G: 0.48619679680892397
+
+=============== Epoch: 887
+
+Train loss_D: 114.00344470189884
+Train loss_G: 0.0
+Test loss_G: 0.48619679680892397
+
+=============== Epoch: 888
+
+Train loss_D: 86.77071697078645
+Train loss_G: 0.0
+Test loss_G: 0.48619679680892397
+
+=============== Epoch: 889
+
+Train loss_D: 1008.8737261593342
+Train loss_G: 2.7498293246485686
+Test loss_G: 0.49094584797109875
+
+=============== Epoch: 890
+
+Train loss_D: 429.125545039773
+Train loss_G: 0.0
+Test loss_G: 0.49327986368111204
+
+=============== Epoch: 891
+
+Train loss_D: 200.71384054422379
+Train loss_G: 0.0
+Test loss_G: 0.49332693219184875
+
+=============== Epoch: 892
+
+Train loss_D: 94.48659402504563
+Train loss_G: 0.0
+Test loss_G: 0.49332779007298605
+
+=============== Epoch: 893
+
+Train loss_D: 115.73267126176506
+Train loss_G: 0.0
+Test loss_G: 0.49332781987530844
+
+=============== Epoch: 894
+
+Train loss_D: 109.94207170978189
+Train loss_G: 0.0
+Test loss_G: 0.49332781774657114
+
+=============== Epoch: 895
+
+Train loss_D: 79.42152539407834
+Train loss_G: 0.0
+Test loss_G: 0.49332781774657114
+
+=============== Epoch: 896
+
+Train loss_D: 73.19753960240632
+Train loss_G: 0.0
+Test loss_G: 0.49332781774657114
+
+=============== Epoch: 897
+
+Train loss_D: 67.25484780734405
+Train loss_G: 0.0
+Test loss_G: 0.49332781774657114
+
+=============== Epoch: 898
+
+Train loss_D: 66.12651545228437
+Train loss_G: 0.0
+Test loss_G: 0.49332781774657114
+
+=============== Epoch: 899
+
+Train loss_D: 755.1764383763075
+Train loss_G: 2.26461602120023
+Test loss_G: 0.4987484706299646
+
+=============== Epoch: 900
+
+Train loss_D: 389.15728371590376
+Train loss_G: 0.0
+Test loss_G: 0.5027674330132348
+
+=============== Epoch: 901
+
+Train loss_D: 179.8671216107905
+Train loss_G: 0.0
+Test loss_G: 0.5028510732310159
+
+=============== Epoch: 902
+
+Train loss_D: 172.30741594266146
+Train loss_G: 0.0
+Test loss_G: 0.5028526037931442
+
+=============== Epoch: 903
+
+Train loss_D: 208.66795564815402
+Train loss_G: 0.0
+Test loss_G: 0.5028526421104159
+
+=============== Epoch: 904
+
+Train loss_D: 28.235810132697225
+Train loss_G: 0.0
+Test loss_G: 0.5028526442391532
+
+=============== Epoch: 905
+
+Train loss_D: 165.73657425958663
+Train loss_G: 0.0
+Test loss_G: 0.5028526442391532
+
+=============== Epoch: 906
+
+Train loss_D: 116.54930357588455
+Train loss_G: 0.0
+Test loss_G: 0.5028526442391532
+
+=============== Epoch: 907
+
+Train loss_D: 160.37359477719292
+Train loss_G: 0.0
+Test loss_G: 0.5028526442391532
+
+=============== Epoch: 908
+
+Train loss_D: 15.76852241391316
+Train loss_G: 0.0
+Test loss_G: 0.5028526442391532
+
+=============== Epoch: 909
+
+Train loss_D: 1035.3043802082539
+Train loss_G: 2.568138973689393
+Test loss_G: 0.47215024062565397
+
+=============== Epoch: 910
+
+Train loss_D: 394.09919135272503
+Train loss_G: 0.0
+Test loss_G: 0.4755344923053469
+
+=============== Epoch: 911
+
+Train loss_D: 208.73231375217438
+Train loss_G: 0.0
+Test loss_G: 0.47560510465076994
+
+=============== Epoch: 912
+
+Train loss_D: 148.55249114055187
+Train loss_G: 0.0
+Test loss_G: 0.47560638189315796
+
+=============== Epoch: 913
+
+Train loss_D: 157.97730041481555
+Train loss_G: 0.0
+Test loss_G: 0.475606415952955
+
+=============== Epoch: 914
+
+Train loss_D: 120.13225359749049
+Train loss_G: 0.0
+Test loss_G: 0.4756064180816923
+
+=============== Epoch: 915
+
+Train loss_D: 108.0662033604458
+Train loss_G: 0.0
+Test loss_G: 0.4756064180816923
+
+=============== Epoch: 916
+
+Train loss_D: 114.14111603423953
+Train loss_G: 0.0
+Test loss_G: 0.4756064180816923
+
+=============== Epoch: 917
+
+Train loss_D: 91.32913911808282
+Train loss_G: 0.0
+Test loss_G: 0.4756064180816923
+
+=============== Epoch: 918
+
+Train loss_D: 51.20407240930945
+Train loss_G: 0.0
+Test loss_G: 0.4756064180816923
+
+=============== Epoch: 919
+
+Train loss_D: 736.5579818785191
+Train loss_G: 1.8808225032530332
+Test loss_G: 0.4876792473452432
+
+=============== Epoch: 920
+
+Train loss_D: 409.6935262531042
+Train loss_G: 0.0
+Test loss_G: 0.4796966442040035
+
+=============== Epoch: 921
+
+Train loss_D: 135.5550761781633
+Train loss_G: 0.0
+Test loss_G: 0.47957740298339296
+
+=============== Epoch: 922
+
+Train loss_D: 191.033693196252
+Train loss_G: 0.0
+Test loss_G: 0.47957522741385866
+
+=============== Epoch: 923
+
+Train loss_D: 171.99820412881672
+Train loss_G: 0.0
+Test loss_G: 0.47957518483911243
+
+=============== Epoch: 924
+
+Train loss_D: 28.9182140910998
+Train loss_G: 0.0
+Test loss_G: 0.4795751763241632
+
+=============== Epoch: 925
+
+Train loss_D: 187.76794888242148
+Train loss_G: 0.0
+Test loss_G: 0.4795751763241632
+
+=============== Epoch: 926
+
+Train loss_D: 97.62247549975291
+Train loss_G: 0.0
+Test loss_G: 0.4795751763241632
+
+=============== Epoch: 927
+
+Train loss_D: 141.8266329439357
+Train loss_G: 0.0
+Test loss_G: 0.4795751763241632
+
+=============== Epoch: 928
+
+Train loss_D: 72.09257132932544
+Train loss_G: 0.0
+Test loss_G: 0.4795751763241632
+
+=============== Epoch: 929
+
+Train loss_D: 833.5887518823147
+Train loss_G: 3.21550789475441
+Test loss_G: 0.49079322814941406
+
+=============== Epoch: 930
+
+Train loss_D: 391.84433887153864
+Train loss_G: 0.0
+Test loss_G: 0.5012764249529157
+
+=============== Epoch: 931
+
+Train loss_D: 156.9949119798839
+Train loss_G: 0.0
+Test loss_G: 0.5014833126749311
+
+=============== Epoch: 932
+
+Train loss_D: 132.2316195331514
+Train loss_G: 0.0
+Test loss_G: 0.5014870911836624
+
+=============== Epoch: 933
+
+Train loss_D: 88.86928571946919
+Train loss_G: 0.0
+Test loss_G: 0.5014871635607311
+
+=============== Epoch: 934
+
+Train loss_D: 121.72546431049705
+Train loss_G: 0.0
+Test loss_G: 0.5014871635607311
+
+=============== Epoch: 935
+
+Train loss_D: 145.28768848627806
+Train loss_G: 0.0
+Test loss_G: 0.5014871593032565
+
+=============== Epoch: 936
+
+Train loss_D: 34.03988712653518
+Train loss_G: 0.0
+Test loss_G: 0.5014871593032565
+
+=============== Epoch: 937
+
+Train loss_D: 100.17800977826118
+Train loss_G: 0.0
+Test loss_G: 0.5014871593032565
+
+=============== Epoch: 938
+
+Train loss_D: 105.82967560971156
+Train loss_G: 0.0
+Test loss_G: 0.5014871593032565
+
+=============== Epoch: 939
+
+Train loss_D: 911.172739982605
+Train loss_G: 2.5927962558834174
+Test loss_G: 0.48739188270909445
+
+=============== Epoch: 940
+
+Train loss_D: 136.09092201851308
+Train loss_G: 0.0
+Test loss_G: 0.4919989896672113
+
+=============== Epoch: 941
+
+Train loss_D: 91.87201345479116
+Train loss_G: 0.0
+Test loss_G: 0.49211034391607555
+
+=============== Epoch: 942
+
+Train loss_D: 60.50863647216465
+Train loss_G: 0.0
+Test loss_G: 0.49211239389010836
+
+=============== Epoch: 943
+
+Train loss_D: 3.0338122252724133
+Train loss_G: 0.0
+Test loss_G: 0.4921124258211681
+
+=============== Epoch: 944
+
+Train loss_D: 168.546834146342
+Train loss_G: 0.0
+Test loss_G: 0.49211242369243074
+
+=============== Epoch: 945
+
+Train loss_D: 1.2760590992402285
+Train loss_G: 0.0
+Test loss_G: 0.4921124279499054
+
+=============== Epoch: 946
+
+Train loss_D: 0.5771434407142806
+Train loss_G: 0.0
+Test loss_G: 0.4921124279499054
+
+=============== Epoch: 947
+
+Train loss_D: 100.7709260475167
+Train loss_G: 0.0
+Test loss_G: 0.4921124279499054
+
+=============== Epoch: 948
+
+Train loss_D: 0.5959254807603429
+Train loss_G: 0.0
+Test loss_G: 0.4921124279499054
+
+=============== Epoch: 949
+
+Train loss_D: 1154.153808230767
+Train loss_G: 2.894994773362812
+Test loss_G: 0.4916473073618753
+
+=============== Epoch: 950
+
+Train loss_D: 285.0032457113266
+Train loss_G: 0.0
+Test loss_G: 0.4987472721508571
+
+=============== Epoch: 951
+
+Train loss_D: 135.76194458641112
+Train loss_G: 0.0
+Test loss_G: 0.4988973332302911
+
+=============== Epoch: 952
+
+Train loss_D: 72.39159352704883
+Train loss_G: 0.0
+Test loss_G: 0.49890008355890003
+
+=============== Epoch: 953
+
+Train loss_D: 117.62456831010059
+Train loss_G: 0.0
+Test loss_G: 0.49890011123248507
+
+=============== Epoch: 954
+
+Train loss_D: 46.155013317242265
+Train loss_G: 0.0
+Test loss_G: 0.4989001154899597
+
+=============== Epoch: 955
+
+Train loss_D: 15.12544254178647
+Train loss_G: 0.0
+Test loss_G: 0.4989001154899597
+
+=============== Epoch: 956
+
+Train loss_D: 86.20790299749933
+Train loss_G: 0.0
+Test loss_G: 0.4989001154899597
+
+=============== Epoch: 957
+
+Train loss_D: 42.899703079950996
+Train loss_G: 0.0
+Test loss_G: 0.4989001154899597
+
+=============== Epoch: 958
+
+Train loss_D: 57.32810458779568
+Train loss_G: 0.0
+Test loss_G: 0.4989001154899597
+
+=============== Epoch: 959
+
+Train loss_D: 853.0135810673237
+Train loss_G: 2.516510769724846
+Test loss_G: 0.48980197097573963
+
+=============== Epoch: 960
+
+Train loss_D: 290.53790244087577
+Train loss_G: 0.0
+Test loss_G: 0.4944787621498108
+
+=============== Epoch: 961
+
+Train loss_D: 132.83596813678741
+Train loss_G: 0.0
+Test loss_G: 0.4946306326559612
+
+=============== Epoch: 962
+
+Train loss_D: 23.508227189071476
+Train loss_G: 0.0
+Test loss_G: 0.4946334489754268
+
+=============== Epoch: 963
+
+Train loss_D: 79.25755788804963
+Train loss_G: 0.0
+Test loss_G: 0.49463348942143576
+
+=============== Epoch: 964
+
+Train loss_D: 42.55182116967626
+Train loss_G: 0.0
+Test loss_G: 0.49463348942143576
+
+=============== Epoch: 965
+
+Train loss_D: 29.813060923246667
+Train loss_G: 0.0
+Test loss_G: 0.49463348942143576
+
+=============== Epoch: 966
+
+Train loss_D: 47.012548732513096
+Train loss_G: 0.0
+Test loss_G: 0.49463348942143576
+
+=============== Epoch: 967
+
+Train loss_D: 259.11966593464604
+Train loss_G: 0.0
+Test loss_G: 0.49463348942143576
+
+=============== Epoch: 968
+
+Train loss_D: 2.490937396971276
+Train loss_G: 0.0
+Test loss_G: 0.49463348942143576
+
+=============== Epoch: 969
+
+Train loss_D: 1097.938737292774
+Train loss_G: 2.987943036187636
+Test loss_G: 0.4979665619986398
+
+=============== Epoch: 970
+
+Train loss_D: 430.88193267583847
+Train loss_G: 0.0
+Test loss_G: 0.49777296824114664
+
+=============== Epoch: 971
+
+Train loss_D: 121.44443724490702
+Train loss_G: 0.0
+Test loss_G: 0.4977808190243585
+
+=============== Epoch: 972
+
+Train loss_D: 73.70112587790936
+Train loss_G: 0.0
+Test loss_G: 0.49778095952102114
+
+=============== Epoch: 973
+
+Train loss_D: 101.57009166618809
+Train loss_G: 0.0
+Test loss_G: 0.49778095313480925
+
+=============== Epoch: 974
+
+Train loss_D: 48.85832008626312
+Train loss_G: 0.0
+Test loss_G: 0.49778095739228384
+
+=============== Epoch: 975
+
+Train loss_D: 61.18832384340931
+Train loss_G: 0.0
+Test loss_G: 0.49778095739228384
+
+=============== Epoch: 976
+
+Train loss_D: 9.106511830119416
+Train loss_G: 0.0
+Test loss_G: 0.49778095739228384
+
+=============== Epoch: 977
+
+Train loss_D: 136.17108077113517
+Train loss_G: 0.0
+Test loss_G: 0.49778095739228384
+
+=============== Epoch: 978
+
+Train loss_D: 39.41115168837132
+Train loss_G: 0.0
+Test loss_G: 0.49778095739228384
+
+=============== Epoch: 979
+
+Train loss_D: 1158.3886633068323
+Train loss_G: 2.584833618841673
+Test loss_G: 0.505826153925487
+
+=============== Epoch: 980
+
+Train loss_D: 501.98643143475056
+Train loss_G: 0.0
+Test loss_G: 0.5067620383841651
+
+=============== Epoch: 981
+
+Train loss_D: 235.01173181645572
+Train loss_G: 0.0
+Test loss_G: 0.5067841942821231
+
+=============== Epoch: 982
+
+Train loss_D: 112.99239494465292
+Train loss_G: 0.0
+Test loss_G: 0.5067846072571618
+
+=============== Epoch: 983
+
+Train loss_D: 127.06804395467043
+Train loss_G: 0.0
+Test loss_G: 0.5067846051284245
+
+=============== Epoch: 984
+
+Train loss_D: 83.38911430025473
+Train loss_G: 0.0
+Test loss_G: 0.5067846072571618
+
+=============== Epoch: 985
+
+Train loss_D: 82.61425297474489
+Train loss_G: 0.0
+Test loss_G: 0.5067846072571618
+
+=============== Epoch: 986
+
+Train loss_D: 59.97210383741185
+Train loss_G: 0.0
+Test loss_G: 0.5067846072571618
+
+=============== Epoch: 987
+
+Train loss_D: 104.0344208884053
+Train loss_G: 0.0
+Test loss_G: 0.5067846072571618
+
+=============== Epoch: 988
+
+Train loss_D: 99.98304984229617
+Train loss_G: 0.0
+Test loss_G: 0.5067846072571618
+
+=============== Epoch: 989
+
+Train loss_D: 732.9620547890663
+Train loss_G: 1.9572360546965348
+Test loss_G: 0.5150921600205558
+
+=============== Epoch: 990
+
+Train loss_D: 389.5433844923973
+Train loss_G: 0.0
+Test loss_G: 0.5057599927697863
+
+=============== Epoch: 991
+
+Train loss_D: 166.3474528081715
+Train loss_G: 0.0
+Test loss_G: 0.5056073431457792
+
+=============== Epoch: 992
+
+Train loss_D: 141.4129586443305
+Train loss_G: 0.0
+Test loss_G: 0.5056045715297971
+
+=============== Epoch: 993
+
+Train loss_D: 115.28981137741357
+Train loss_G: 0.0
+Test loss_G: 0.5056045140538897
+
+=============== Epoch: 994
+
+Train loss_D: 130.19119262509048
+Train loss_G: 0.0
+Test loss_G: 0.5056045225688389
+
+=============== Epoch: 995
+
+Train loss_D: 83.75207555480301
+Train loss_G: 0.0
+Test loss_G: 0.5056045246975762
+
+=============== Epoch: 996
+
+Train loss_D: 71.58613758021966
+Train loss_G: 0.0
+Test loss_G: 0.5056045246975762
+
+=============== Epoch: 997
+
+Train loss_D: 82.64670128468424
+Train loss_G: 0.0
+Test loss_G: 0.5056045246975762
+
+=============== Epoch: 998
+
+Train loss_D: 25.436235876986757
+Train loss_G: 0.0
+Test loss_G: 0.5056045246975762
+
+=============== Epoch: 999
+
+Train loss_D: 1071.1242746412754
+Train loss_G: 2.761528021410892
+Test loss_G: 0.4834711785827364
+
