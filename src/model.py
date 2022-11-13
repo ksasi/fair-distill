@@ -224,18 +224,18 @@ class Discriminator(nn.Module):
         self.fc_src = spectral_norm(nn.Linear(y_dim, 1))
 
     def forward(self, x):
-        #h_list = []
+        h_list = []
         h = x
         for layer in self.layers:
             h = layer(h)
-        #    h_list.append(h)
+            h_list.append(h)
         
         h = torch.sum(h, dim=(2,3)) # (bs, 1024) # pooling
         
         out_src = self.fc_src(h)    # (bs, 1)
         ##out_cls = torch.sum(h * self.embeding(label), dim=1, keepdim=True)
-        return out_src    # (bs, 1)
-        #return out_src, h_list    # (bs, 1)
+        #return out_src    # (bs, 1)
+        return out_src, h_list    # (bs, 1)
 
 
 # Discriminator(128, 32, 5)

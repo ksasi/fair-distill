@@ -3,3 +3,6 @@
 /checkpoints/**
 /checkpoints1/***
 /src/ffhq.pkl
+/results/
+/scripts/detected_faces/*
+/scripts/detected_faces

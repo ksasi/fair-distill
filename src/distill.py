@@ -12,7 +12,7 @@ from torch import nn
 
 
 from model import Generator, Discriminator
-from loss import PixelL1Loss, CompositeLoss
+from loss import PixelL1Loss, CompositeLoss, CMPDisLoss, CSDLoss
 from utils import DISTILLEDDataset
 
 import albumentations as A
@@ -47,6 +47,9 @@ def train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, 
     running_loss = 0.0
     epoch_loss_d = 0.
     epoch_loss_g = 0.
+    D_x = 0.
+    D_G_z1 = 0.
+    D_G_z2 = 0.
     #psnr_score_running = 0.
     #ssim_score_running = 0.
     
@@ -54,17 +57,18 @@ def train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, 
     samples_num = 0.
     real_label = 1.
     fake_label = 0.
+    alpha = 0.1
 
-    '''
-    x = np.linspace(0, args.epochs-1, int(args.epochs/10))
-    y = np.linspace(0, 1, int(args.epochs/10))
+
+    x = np.linspace(0, args.epochs-1, int(args.epochs))
+    y = np.linspace(0, 1, int(args.epochs))
     coef = np.polyfit(x,y,1)
     poly1d_fn = np.poly1d(coef)
-    '''
+
 
     for batch_idx, data in enumerate(trainloader_real, 0):
-
         latents, images_real = data
+        #images_real, cropped_images_real = cropped_images_real, images_real
         latents = latents.to(device)
         images_real = images_real.to(device)
         G_Student = G_Student.to(device)
@@ -72,15 +76,18 @@ def train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, 
         #D_Student.zero_grad()
 
         ### Discriminator - Real Images
-        labels = torch.full((images_real.size(0),), real_label, dtype=torch.float, device=device)
+        labels = torch.full((images_real.size(0),), real_label-alpha, dtype=torch.float, device=device)
         #print(labels)
         #print(labels.unsqueeze(1))
         optimizer_d.zero_grad()
-        preds_real = D_Student(images_real)
+        preds_real, real_list = D_Student(images_real)
+        real_list = [h.detach() for h in real_list]
+
         #print(preds_real)
         loss_real = criterion[1](preds_real, labels.unsqueeze(1))
         #print(loss_real)
         loss_real.backward()
+        D_x  += torch.mean(torch.round(torch.sigmoid(preds_real)).detach().cpu()).item()
         #optimizer_d.step()
         #epoch_loss_d += torch.mean(loss_real.detach().cpu()).item()
 
@@ -88,25 +95,27 @@ def train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, 
         labels.fill_(fake_label)
         images_fake = G_Student(latents)
         #optimizer_d.zero_grad()
-        preds_fake = D_Student(images_fake.detach())
+        preds_fake, _ = D_Student(images_fake.detach())
         loss_fake = criterion[1](preds_fake, labels.unsqueeze(1))
         loss_fake.backward()
+        D_G_z1  += torch.mean(torch.round(torch.sigmoid(preds_fake)).detach().cpu()).item()
         loss_rf = loss_real + loss_fake
         optimizer_d.step()
         #epoch_loss_d += torch.mean(loss_fake.detach().cpu()).item()
         epoch_loss_d += torch.mean(loss_rf.detach().cpu()).item()
         
-
         if (epoch+1)%1 == 0 :
-            #images_fake = G_Student(latents)
+            images_fake = G_Student(latents)
             ### Generator
             #G_Student.zero_grad()
             labels.fill_(real_label)
             optimizer_g.zero_grad()
             #optimizer_d.zero_grad()
-            preds_fake = D_Student(images_fake.detach())
+            preds_fake, fake_list = D_Student(images_fake)
             loss1_g = criterion[0](images_real, images_fake)    ### Composite Loss i.e. pixell1_loss
             loss2_g = criterion[1](preds_fake, labels.unsqueeze(1)) ### GAN Loss
+            loss3_g = criterion[2](real_list, fake_list) ### Feature-level Distillation Loss
+            loss4_g = criterion[3](images_fake) ### Cumulative Shannon Diversity Loss for Age, Gender and Race attributes
             '''
             k = poly1d_fn(epoch)
             if epoch < 249:
@@ -118,16 +127,18 @@ def train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, 
             #loss_g = 0.4 * loss1_g 
             #optimizer_g.zero_grad()
             '''
-            loss_g = loss1_g + 0.05 * loss2_g
+            #loss_g = 1.0 * loss1_g + 0.001 * loss2_g
+            k = poly1d_fn(epoch)
+            loss_g = (1-k) * loss1_g + 0.4 * loss2_g + loss3_g + k * loss4_g
             loss_g.backward()
+            D_G_z2 += torch.mean(torch.round(torch.sigmoid(preds_fake)).detach().cpu()).item()
             optimizer_g.step()
             epoch_loss_g += torch.mean(loss_g.detach().cpu()).item()
-
         batch_num += 1
         samples_num += len(images_fake)
     #return epoch_loss / batch_num, ssim_score_running / samples_num, psnr_score_running/ samples_num
         #break
-    return epoch_loss_d / 2*batch_num, epoch_loss_g / batch_num
+    return epoch_loss_d / 2*batch_num, epoch_loss_g / batch_num, D_x / batch_num, D_G_z1 / batch_num, D_G_z2 / batch_num
 
 def test_epoch(G_Student, D_Student, testloader_real, criterion, optimizer_g, optimizer_d, phase='test'):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -148,6 +159,7 @@ def test_epoch(G_Student, D_Student, testloader_real, criterion, optimizer_g, op
       for batch_idx, data in  enumerate(testloader_real):
 
         latents, images_real = data
+        #images_real, cropped_images_real = cropped_images_real, images_real
         latents = latents.to(device)
         images_real = images_real.to(device)
         G_Student = G_Student.to(device)
@@ -204,25 +216,27 @@ def train_model(G_Student, D_Student, trainloader_real, testloader_real, criteri
         #test_loss_od, test_ssim_od, test_psnr_od = test_epoch(model, test_loader_od, criterion, optimizer, lr_scheduler, phase='test') 
 
         #testloader_id
-        train_loss_d, train_loss_g = train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, optimizer_d, epoch, phase='train')
+        train_loss_d, train_loss_g, D_x, D_G_z1, D_G_z2 = train_epoch(G_Student, D_Student, trainloader_real, criterion, optimizer_g, optimizer_d, epoch, phase='train')
         #train_loss = train_epoch(model, train_loader, criterion, optimizer, lr_scheduler, phase='train')
         #test_loss = test_epoch(model, test_loader, criterion, optimizer, lr_scheduler, phase='test')
-        test_loss_g = test_epoch(G_Student, D_Student, testloader_real, criterion, optimizer_g, optimizer_d, phase='test')
+        ########test_loss_g = test_epoch(G_Student, D_Student, testloader_real, criterion, optimizer_g, optimizer_d, phase='test') ### Test Epoch being disabled as this is GAN training
 
-        #lr_scheduler_d.step()
-        #lr_scheduler_g.step()
+        lr_scheduler_d.step()
+        lr_scheduler_g.step()
         print()
-        print(f'Train loss_D: {train_loss_d}', flush = True)
-        print(f'Train loss_G: {train_loss_g}', flush = True)
-        print(f'Test loss_G: {test_loss_g}', flush = True)
+        #print(f'Train loss_D: {train_loss_d}', flush = True)
+        #print(f'Train loss_G: {train_loss_g}', flush = True)
+        print('\tTrain loss_D: %.4f\tTrain loss_G: %.4f\tD(x): %.4f\tD(G(z)): %.4f / %.4f' % (train_loss_d, train_loss_g, D_x, D_G_z1, D_G_z2))
+        print()
+        ########print(f'Test loss_G: {test_loss_g}', flush = True)
         #print(f'Train loss: {train_loss}, Train SSIM: {train_ssim}, Train PSNR: {train_psnr}', flush = True)
         #print(f'Test loss SOTS Indoor: {test_loss_id}, Test SSIM SOTS Indoor: {test_ssim_id}, Test PSNR SOTS Indoor: {test_psnr_id}', flush = True)
         #print(f'Test loss SOTS Outdoor: {test_loss_od}, Test SSIM SOTS Outdoor: {test_ssim_od}, Test PSNR SOTS Outdoor: {test_psnr_od}', flush = True)
-        print()
+        
     
         train_g_losses.append(train_loss_g)
         train_d_losses.append(train_loss_d)
-        test_g_losses.append(test_loss_g)
+        ########test_g_losses.append(test_loss_g)
         #train_ssims.append(train_ssim)
         #train_psnrs.append(train_psnr)
         #test_losses_id.append(test_loss_id)
@@ -255,7 +269,8 @@ def train_model(G_Student, D_Student, trainloader_real, testloader_real, criteri
         best_model_d = D_Student
         torch.save({'epoch': epoch, 'model': best_model_g.state_dict()}, f'{checkpoint_path_g}')
         torch.save({'epoch': epoch, 'model': best_model_d.state_dict()}, f'{checkpoint_path_d}')
-    return train_g_losses, train_d_losses, test_g_losses
+    return train_g_losses, train_d_losses
+    ########return train_g_losses, train_d_losses, test_g_losses
 
 
 def main():
@@ -266,12 +281,12 @@ def main():
 
     #model_unet = InvolutionUNet(enc_chs=(3,64,128,256,512), dec_chs=(512, 256, 128, 64), num_class=3, retain_dim=False, out_sz=(128,128))
     #####G_Student = Generator(256, 32, 512, 128, 5)
-    G_Student = Generator(256, 32, 512, 128, 3)
-    D_Student = Discriminator(256, 32, 5)
+    G_Student = Generator(128, 64, 512, 128, 5)
+    D_Student = Discriminator(128, 64, 5)
 
 
-    train_transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
-    test_transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
+    train_transform = transforms.Compose([transforms.ToPILImage(), transforms.Resize(128), transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
+    test_transform = transforms.Compose([transforms.ToPILImage(), transforms.Resize(128), transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
 
     ####train_transform = transforms.Compose([transforms.ToTensor()])
     ####test_transform = transforms.Compose([transforms.ToTensor()])
@@ -283,8 +298,8 @@ def main():
     trainset = DISTILLEDDataset(path = args.dataset_path + 'disttrain/', transform = train_transform)
     testset = DISTILLEDDataset(path = args.dataset_path + 'disttest/', transform = test_transform)
 
-    trainloader_real = torch.utils.data.DataLoader(trainset, batch_size=args.batch_size, shuffle=False, num_workers=0, pin_memory=True)
-    testloader_real = torch.utils.data.DataLoader(testset, batch_size=args.batch_size, shuffle=False, num_workers=0, pin_memory=True)
+    trainloader_real = torch.utils.data.DataLoader(trainset, batch_size=args.batch_size, shuffle=False, num_workers=14, pin_memory=True)
+    testloader_real = torch.utils.data.DataLoader(testset, batch_size=args.batch_size, shuffle=False, num_workers=14, pin_memory=True)
     #testloader_od = torch.utils.data.DataLoader(testset_od, batch_size=args.batch_size, shuffle=False, num_workers=0, pin_memory=True)
 
     #criterion = CompositeLoss()
@@ -292,7 +307,7 @@ def main():
     #criterion1 = CompositeLoss()
     #criterion1 = PixelL1Loss()
     #criterion2 = nn.BCEWithLogitsLoss()
-    criterion = [CompositeLoss(), nn.BCEWithLogitsLoss()]
+    criterion = [CompositeLoss(), nn.BCEWithLogitsLoss(), CMPDisLoss(), CSDLoss()]
     #criterion = [PixelL1Loss(), nn.BCEWithLogitsLoss()]
     
     #criterion = nn.MSELoss()
@@ -302,12 +317,16 @@ def main():
     optimizer_g = torch.optim.Adam(G_Student.parameters(), lr=args.learning_rate, betas=(0.0, 0.9), weight_decay=args.weight_decay)
     ########optimizer_g = torch.optim.Adam(G_Student.parameters(), lr=args.learning_rate, weight_decay=args.weight_decay)
     optimizer_d = torch.optim.Adam(D_Student.parameters(), lr=args.learning_rate, betas=(0.0, 0.9), weight_decay=args.weight_decay)
-    #######lr_scheduler_g = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer_g, len(trainloader_real), eta_min=0, verbose=True)
-    lr_scheduler_g = torch.optim.lr_scheduler.StepLR(optimizer_g, step_size=1, gamma=0.1, verbose=True)
-    lr_scheduler_d = torch.optim.lr_scheduler.StepLR(optimizer_d, step_size=1, gamma=0.1, verbose=True)
+    lr_scheduler_g = torch.optim.lr_scheduler.CosineAnnealingWarmRestarts(optimizer_g,  args.epochs, eta_min=0, verbose=True)
+    lr_scheduler_d = torch.optim.lr_scheduler.CosineAnnealingWarmRestarts(optimizer_d,  args.epochs, eta_min=0, verbose=True)
+    #######lr_scheduler_g = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer_g, 100, eta_min=0, verbose=True)
+    #######lr_scheduler_d = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer_d, 100, eta_min=0, verbose=True)
+    #######lr_scheduler_g = torch.optim.lr_scheduler.StepLR(optimizer_g, step_size=1, gamma=0.1, verbose=True)
+    #######lr_scheduler_d = torch.optim.lr_scheduler.StepLR(optimizer_d, step_size=1, gamma=0.1, verbose=True)
     
 
-    train_g_losses, train_d_losses, test_g_losses = train_model(G_Student, D_Student, trainloader_real, testloader_real, criterion, optimizer_g, optimizer_d, lr_scheduler_g, lr_scheduler_d, args.save_path, args.checkpoint_name, args.epochs)
+    ########train_g_losses, train_d_losses, test_g_losses = train_model(G_Student, D_Student, trainloader_real, testloader_real, criterion, optimizer_g, optimizer_d, lr_scheduler_g, lr_scheduler_d, args.save_path, args.checkpoint_name, args.epochs)
+    train_g_losses, train_d_losses = train_model(G_Student, D_Student, trainloader_real, testloader_real, criterion, optimizer_g, optimizer_d, lr_scheduler_g, lr_scheduler_d, args.save_path, args.checkpoint_name, args.epochs)
 
 if __name__ == "__main__":
     main()
