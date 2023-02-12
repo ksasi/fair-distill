@@ -2,7 +2,7 @@
 Distillation of GANs with fairness constraints
 
 
-This work is carried out as part of my Masters Thesis - ***"Bias and Fairness in Low Resolution Image Recognition"*** under the guidance of [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/)
+This work is carried out as part of my [Masters Thesis](https://ksasi.github.io/pdfs/MT19AIE308-slide.pdf) - ***"[Bias and Fairness in Low Resolution Image Recognition](https://ksasi.github.io/pdfs/MT19AIE308-Report.pdf)"*** under the guidance of [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/)
 
 [![Apace2 License](https://img.shields.io/badge/license-Apace2-blue)](https://opensource.org/licenses/Apache-2.0)
 [![Made With python 3.8.2](https://img.shields.io/badge/Made%20with-Python%203.8.2-brightgreen)](https://www.python.org/downloads/release/python-382/)
@@ -59,7 +59,7 @@ Navigate to FairFace folder and execute scripts as below :
 > 
 > cp test\_outputs.csv ../fairDL/results/test\_outputs\_1.csv
 
-Sample images from `alltrain` to `disttrain` based on the attributes such that all sub-groups are balanced as below :
+Sample images from `alltrain` to `disttrain` based on the attributes such that all groups are balanced as below :
 
 > python sampler.py --src=\<root\_folder\>/fair-distill/data/alltrain --tgt=\<root\_folder\>/fair-distill/data/disttrain --predfile=\<root\_folder\>/fair-distill/results/test\_outputs\_1.csv
 
