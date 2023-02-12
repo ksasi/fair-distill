@@ -27,7 +27,6 @@ def main():
     except:
         sys.path.append('/workspace/FairFace')
 
-    #print(sys.path)
     os.makedirs(args.outdir, exist_ok=True)
 
     with open(f'{args.outdir}/test_imgs.csv', 'w') as f:

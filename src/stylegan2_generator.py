@@ -37,13 +37,8 @@ def main():
     for img_num in range(args.num):
         z = torch.randn([1, G.z_dim]).cuda()
         c = None
-        #img = G(z, c, truncation_psi=1, noise_mode='const')
         img = G(z, c, truncation_psi=1, noise_mode='const')
         img = (img.permute(0, 2, 3, 1) * 127.5 + 128).clamp(0, 255).to(torch.uint8)
-        #print(img[0])
-        #print("\n")
-        #print(img[0].cpu().numpy())
-        #####PIL.Image.fromarray(img[0].cpu().numpy(), 'RGB').save(f'{args.imgdir}/{img_num}.png')
         img = PIL.Image.fromarray(img[0].cpu().numpy(), 'RGB')
         img.resize(size=(256, 256)).save(f'{args.imgdir}/{img_num}.png')
         np.save(f'{args.zdir}/{img_num}.npy', z.cpu().numpy())

@@ -13,19 +13,15 @@ import os
 import argparse
 
 def rect_to_bb(rect):
-	# take a bounding predicted by dlib and convert it
-	# to the format (x, y, w, h) as we would normally do
-	# with OpenCV
 	x = rect.left()
 	y = rect.top()
 	w = rect.right() - x
 	h = rect.bottom() - y
-	# return a tuple of (x, y, w, h)
 	return (x, y, w, h)
 
 def detect_face(image_paths,  SAVE_DETECTED_AT, default_max_size=800,size = 300, padding = 0.25):
-    cnn_face_detector = dlib.cnn_face_detection_model_v1('/scratch/data/kotti1/FairFace/dlib_models/mmod_human_face_detector.dat')
-    sp = dlib.shape_predictor('/scratch/data/kotti1/FairFace/dlib_models/shape_predictor_5_face_landmarks.dat')
+    cnn_face_detector = dlib.cnn_face_detection_model_v1('/workspace/FairFace/dlib_models/mmod_human_face_detector.dat')
+    sp = dlib.shape_predictor('/workspace/FairFace/dlib_models/shape_predictor_5_face_landmarks.dat')
     base = 2000  # largest width and height
     for index, image_path in enumerate(image_paths):
         if index % 1000 == 0:
@@ -54,7 +50,6 @@ def detect_face(image_paths,  SAVE_DETECTED_AT, default_max_size=800,size = 300,
         for idx, image in enumerate(images):
             img_name = image_path.split("/")[-1]
             path_sp = img_name.split(".")
-            #face_name = os.path.join(SAVE_DETECTED_AT,  path_sp[0] + "_" + "face" + str(idx) + "." + path_sp[-1])
             face_name = os.path.join(SAVE_DETECTED_AT,  path_sp[0] + "." + path_sp[-1])
             dlib.save_image(image, face_name)
 
@@ -77,4 +72,3 @@ if __name__ == "__main__":
     imgs = pd.read_csv(args.input_csv)['img_path']
     detect_face(imgs, SAVE_DETECTED_AT)
     print("detected faces are saved at ", SAVE_DETECTED_AT)
-    #Please change test_outputs.csv to actual name of output csv.

@@ -5,8 +5,8 @@ import argparse
 
 parser = argparse.ArgumentParser(description='Generates plot of the face attributes from the CSV file')
 
-parser.add_argument("--src", default="/scratch/data/kotti1/fair-distill/results/img_outputs.csv", type=str, help='path of the directory containing images of generative algorithms')
-parser.add_argument("--outdir", default="/scratch/data/kotti1/fair-distill/results", type=str, help='path to save the results')
+parser.add_argument("--src", default="/workspace/fair-distill/results/img_outputs.csv", type=str, help='path of the directory containing images of generative algorithms')
+parser.add_argument("--outdir", default="/workspace/fair-distill/results", type=str, help='path to save the results')
 
 def plot_attributes(src, outdir, figsize = (8,8)):
     df = pd.read_csv(src)
